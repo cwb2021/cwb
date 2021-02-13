@@ -1,1 +1,148 @@
+#EXTM3U
+
+ARTE 1
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="FILMES",ARTE 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19153
+
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="FILMES",ARTE 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19152
+
+
+
+BIS
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="FILMES",BIS
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19164
+
+
+#EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="FILMES",BIS ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/795
+
+
+CANAL DO BOI
+
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="FILMES",CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19398
+
+
+#EXTINF:-1 tvg-id="CANAL DO BOI ALT" tvg-name="CANAL DO BOI ALT" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="FILMES",CANAL DO BOI ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/491
+
+
+CANAL RURAL
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/Yfxx0qd/LOGO-CANAL-RURAL.png" group-title="FILMES",CANAL RURAL
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19573
+
+
+CANCAO NOVA
+
+
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="FILMES",CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/493
+
+
+#EXTINF:-1 tvg-id="CANCAO NOVA ALT" tvg-name="CANCAO NOVA ALT" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="FILMES",CANCAO NOVA ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19171
+
+
+COMEDY CENTRAL
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="FILMES",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19179
+
+
+#EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="FILMES",COMEDY CENTRAL ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/800
+
+
+E!
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/YBd1pLh/LOGO-E.png" group-title="FILMES",E!
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19203
+
+
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/YBd1pLh/LOGO-E.png" group-title="FILMES",E! ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/811
+
+
+
+FUTURA
+
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/X5JBTLZ/LOGO-FUTURA.png" group-title="FILMES",FUTURA
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19229
+
+
+#EXTINF:-1 tvg-id="FUTURA ALT" tvg-name="FUTURA ALT" tvg-logo="https://i.ibb.co/X5JBTLZ/LOGO-FUTURA.png" group-title="FILMES",FUTURA ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1107
+
+
+
+GNT
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/m9ykGZL/LOGO-GNT.png" group-title="FILMES",GNT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19239
+
+
+#EXTINF:-1 tvg-id="GNT ALT" tvg-name="GNT ALT" tvg-logo="https://i.ibb.co/m9ykGZL/LOGO-GNT.png" group-title="FILMES",GNT ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/827
+
+
+
+MULTISHOW
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/zFPLjcX/LOGO-MULTI-SHOW.png" group-title="FILMES",MULTISHOW
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19271
+
+
+
+#EXTINF:-1 tvg-id="MULTISHOW ALT" tvg-name="MULTISHOW ALT" tvg-logo="https://i.ibb.co/zFPLjcX/LOGO-MULTI-SHOW.png" group-title="FILMES",MULTISHOW ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/842
+
+
+
+MTV
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/dKXvCRz/LOGO-MTV.png" group-title="FILMES",MTV
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19269
+
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/dKXvCRz/LOGO-MTV.png" group-title="FILMES",MTV
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/841
+
+
+VH1
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/K5yLh9f/LOGO-VH1.png" group-title="FILMES",VH1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19367
+
+
+#EXTINF:-1 tvg-id="VH1 ALT" tvg-name="VH1 ALT" tvg-logo="https://i.ibb.co/K5yLh9f/LOGO-VH1.png" group-title="FILMES",VH1 ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/880
+
+
+
+
+VIVA
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/DKw87Sx/LOGO-CANAL-VIVA.png" group-title="FILMES",VIVA
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19370
+
+
+
+#EXTINF:-1 tvg-id="VIVA ALT" tvg-name="VIVA ALT" tvg-logo="https://i.ibb.co/DKw87Sx/LOGO-CANAL-VIVA.png" group-title="FILMES",VIVA ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/881
+
+
+
+WOOHOO
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19374
+
+
+#EXTINF:-1 tvg-id="WOOHOO ALT" tvg-name="WOOHOO ALT" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/618
 
