@@ -364,7 +364,7 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://li
 TNT
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1769
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=2cEwwpNnGJbWvWgPeIt09Q&3U1G7qaTxrPbalZnEx=1613261853
 
 
 #EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT ALT
