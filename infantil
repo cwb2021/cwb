@@ -1,0 +1,117 @@
+BABY TV
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19156
+
+
+#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/483
+
+
+BOOMERANG
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19165
+
+
+#EXTINF:-1 tvg-id="BOOMERANG ALT" tvg-name="BOOMERANG ALT" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19166
+
+
+CARTOON NETWORk
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19173
+
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK ALT" tvg-name="CARTOON NETWORK ALT" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/797
+
+DISCOVERY KIDS
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19189
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS ALT" tvg-name="DISCOVERY KIDS ALT" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/804
+
+
+DISNEY CHANNEL
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19199
+
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL ALT" tvg-name="DISNEY CHANNEL ALT" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/809
+
+
+DISNEY JR
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19375
+
+
+#EXTINF:-1 tvg-id="DISNEY JR ALT" tvg-name="DISNEY JR ALT" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/810
+
+
+DISNEY XD
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1099
+
+
+#EXTINF:-1 tvg-id="DISNEY XD ALT" tvg-name="DISNEY XD ALT" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/505
+
+
+GLOOB
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/826
+
+#EXTINF:-1 tvg-id="GLOOB ALT" tvg-name="GLOOB ALT" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1116
+
+LOADING
+
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/6Pb67M4/LOGO-LOADING.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
+
+
+NICK JR
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19282
+
+#EXTINF:-1 tvg-id="NICK JR ALT" tvg-name="NICK JR ALT" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/847
+
+
+NICKELODEON
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/7638
+
+
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1820
+
+TOONCAST
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/11
+
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/596
+
+
+RATIMBUM
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19361
+
+#EXTINF:-1 tvg-id="RATIMBUM ALT" tvg-name="RATIMBUM ALT" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=
