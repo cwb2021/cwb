@@ -1,1 +1,145 @@
+BAND SPORTS
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/2Skz6Zq/LOGO-BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/192
+
+
+#EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/2Skz6Zq/LOGO-BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/2081
+
+
+
+COMBATE
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/Yt3xKtk/LOGO-COMBATE.png" group-title="ESPORTES",COMBATE
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19177
+
+
+#EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/Yt3xKtk/LOGO-COMBATE.png" group-title="ESPORTES",COMBATE ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201400
+
+
+
+
+ESPN
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/dpsv4Kf/LOGO-ESPN.png" group-title="ESPORTES",ESPN
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19211
+
+
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/dpsv4Kf/LOGO-ESPN.png" group-title="ESPORTES",ESPN ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/814
+
+
+
+ESPN BRASIL
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19208
+
+
+#EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/813
+
+
+
+FOX SPORTS
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19225
+
+
+#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201421
+
+
+FOX SPORTS 2
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19227
+
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201426
+
+
+OFF
+
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://i.ibb.co/Yyh0052/LOGO-OFF.png" group-title="ESPORTES",OFF
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19286
+
+#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/Yyh0052/LOGO-OFF.png" group-title="ESPORTES",OFF ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1126
+
+
+
+PREMIER CLUBES
+
+#EXTINF:-1 tvg-id="PREMIER CLUBES" tvg-name="PREMIER CLUBES" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19302
+
+#EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/567
+
+
+PREMIER 2
+
+#EXTINF:-1 tvg-id="PREMIER 2" tvg-name="PREMIER 2" tvg-logo="https://i.ibb.co/MkXWCn2/LOGO-PREMIER-2.png" group-title="ESPORTES",PREMIER 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19290
+
+
+#EXTINF:-1 tvg-id="PREMIER 2 ALT" tvg-name="PREMIER 2 ALT" tvg-logo="https://i.ibb.co/MkXWCn2/LOGO-PREMIER-2.png" group-title="ESPORTES",PREMIER 2 ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/850
+
+
+PREMIER 3
+
+#EXTINF:-1 tvg-id="PREMIER 3" tvg-name="PREMIER 3" tvg-logo="https://i.ibb.co/dtRqv2Z/LOGO-PREMIER-3.png" group-title="ESPORTES",PREMIER 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19292
+
+
+#EXTINF:-1 tvg-id="PREMIER 3 ALT" tvg-name="PREMIER 3 ALT" tvg-logo="https://i.ibb.co/dtRqv2Z/LOGO-PREMIER-3.png" group-title="ESPORTES",PREMIER 3 ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/851
+
+
+PREMIER 4
+
+#EXTINF:-1 tvg-id="PREMIER 4" tvg-name="PREMIER 4" tvg-logo="https://i.ibb.co/3sZ43fW/LOGO-PREMIER-4.png" group-title="ESPORTES",PREMIER 4
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/852
+
+
+PREMIER 4
+
+#EXTINF:-1 tvg-id="PREMIER 4 ALT" tvg-name="PREMIER 4 ALT" tvg-logo="https://i.ibb.co/3sZ43fW/LOGO-PREMIER-4.png" group-title="ESPORTES",PREMIER 4 ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1127
+
+
+SPORT TV
+
+EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201416
+
+
+EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19327
+
+
+
+SPORT TV 2
+
+EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19324
+
+
+EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201409
+
+
+SPORT TV 3
+
+EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19326
+
+EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/861
 
