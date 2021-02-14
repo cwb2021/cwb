@@ -1,8 +1,5 @@
 A&E
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/LZwZGNH/LOGO-AMC.pnghttps://i.ibb.co/7G3tWYN/LOGO-AeN.png" group-title="FILMES",A&E
-http://buggsbunny.xyz:8080/live/b1p9TMMu/zcg46EP2/152904.m3u8?token=TxUKBxAOQQISB1UEVFUJCFNQAQUEAlcODgBSDgcEBwAGBVZeWgNRWgBGGBQWF0NVBF49XwJGXgkMCwkHV00SREdSEDkKAkECElAFDl1BHRIRWg9TRF5UFBtJWVNBW15EWFtORAYeF11CClVaOgdURgxQBxRcChFUVRUSWA0+VFRZVgwCQVxBCRJIFl8WExMKC0YOWkpGBlFNS1FDBkMKX0FbDkpBBQxNXhBGT0dZE3I3EU4UAxwQXVdKWVgNQwoTWQQXXkFKQVFDO0ZTFhdDVQReB0REXkYIGxUSWgIZb1JbWQwDABIKV14XFgxHUhMcR14NWA8QC0pmSVlTQVteRFhbHw==
-
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/LZwZGNH/LOGO-AMC.pnghttps://i.ibb.co/7G3tWYN/LOGO-AeN.png" group-title="FILMES",A&E
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/790
