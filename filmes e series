@@ -370,6 +370,9 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://li
 #EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/136
 
+#EXTINF:-1 tvg-id="TNT ALT UHD" tvg-name="TNT ALT UHD" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT ALT UHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://bit.ly/3qivOkA
+
 
 TNT SERIES
 
