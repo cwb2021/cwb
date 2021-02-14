@@ -1,6 +1,10 @@
 A&E
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/LZwZGNH/LOGO-AMC.pnghttps://i.ibb.co/7G3tWYN/LOGO-AeN.png" group-title="FILMES",A&E
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://bit.ly/3rS4bzj
+
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/LZwZGNH/LOGO-AMC.pnghttps://i.ibb.co/7G3tWYN/LOGO-AeN.png" group-title="FILMES",A&E
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/790
 
 
