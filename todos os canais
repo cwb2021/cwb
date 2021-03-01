@@ -36,15 +36,11 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
-plugin://plugin.video.f4mTester/?
-
-name=&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
-plugin://plugin.video.f4mTester/?
-
-name=&streamtype=TSDOWNLOADER&amp;url=https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 
 SBT
