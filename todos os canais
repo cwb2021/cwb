@@ -53,30 +53,22 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5
 
 RECORD
 
-#EXTINF:-1 tvg-id="RECORD HD RJ" tvg-name="RECORD HD RJ" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-
-
-title="ABERTOS",RECORD HD RJ
+#EXTINF:-1 tvg-id="RECORD HD RJ" tvg-name="RECORD HD RJ" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD RJ
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/96526.ts
 
 
-#EXTINF:-1 tvg-id="RECORD HD SP" tvg-name="RECORD HD SP" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-
-
-title="ABERTOS",RECORD HD SP
+#EXTINF:-1 tvg-id="RECORD HD SP" tvg-name="RECORD HD SP" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD SP
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/96522.ts
 
 
 
 CULTURA
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-
-
-title="ABERTOS",CULTURA PR
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA PR
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71853.ts
 
 
-#EXTINF:-1 tvg-id="CULTURA ALT" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-
-
-title="ABERTOS",CULTURA ALT
+#EXTINF:-1 tvg-id="CULTURA ALT" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71854.ts
 
 
@@ -85,25 +77,19 @@ GLOBO
 
 
 
-#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
-
-title="ABERTOS",GLOBO SP HD
+#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO SP HD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72041.ts
 
 
-#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
-
-title="ABERTOS",GLOBO SP HD ALT
+#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72627.ts
 
 
 
-#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
-
-title="ABERTOS",GLOBO RJ HD
+#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72026.ts
 
-#EXTINF:-1 tvg-id="GLOBO RJ HD ALT" tvg-name="GLOBO RJ HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
+#EXTINF:-1 tvg-id="GLOBO RJ HD ALT" tvg-name="GLOBO RJ HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO RJ HD ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72027.ts
 
 
