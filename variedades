@@ -1,7 +1,7 @@
 ARTE 1
 
 #EXTINF:-1 tvg-id="teste filme" tvg-name="teste filme" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",teste filme
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:65220/play?uri=magnet:?xt=urn:btih:56599fe2869c1d21472e5b8532390d723c9a3ab0&doresume=false
+http://127.0.0.1:65220/play?uri=magnet:?xt=urn:btih:56599fe2869c1d21472e5b8532390d723c9a3ab0&doresume=false
 
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
