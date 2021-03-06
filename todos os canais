@@ -36,11 +36,11 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72597.ts
 
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/79312.ts
 
 
 SBT
@@ -48,30 +48,26 @@ SBT
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?
 
-name=&streamtype=TSDOWNLOADER&amp;url=https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/playlist.m3u8
+name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72306.ts
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1137
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72598.ts
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://cdn-cdn-iguacu.ciclano.io:1443/cdn-
-
-iguacu/cdn-iguacu/playlist.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/77964.ts
 
 RECORD
 
-#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-
+#EXTINF:-1 tvg-id="RECORD HD RJ" tvg-name="RECORD HD RJ" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-
 
-title="ABERTOS",RECORD HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://playplusrjo-
-
-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+title="ABERTOS",RECORD HD RJ
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/96526.ts
 
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-
+#EXTINF:-1 tvg-id="RECORD HD SP" tvg-name="RECORD HD SP" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-
 
-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://dnsx.co:80/amanda.iptv/a1aw5s/90354
+title="ABERTOS",RECORD HD SP
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/96522.ts
 
 
 
@@ -80,17 +76,13 @@ CULTURA
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-
 
 title="ABERTOS",CULTURA PR
-plugin://plugin.video.f4mTester/?
-
-name=&streamtype=TSDOWNLOADER&amp;url=https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71853.ts
 
 
 #EXTINF:-1 tvg-id="CULTURA ALT" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-
 
 title="ABERTOS",CULTURA ALT
-plugin://plugin.video.f4mTester/?
-
-name=&streamtype=TSDOWNLOADER&amp;url=https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71854.ts
 
 
 
@@ -101,31 +93,23 @@ GLOBO
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
 
 title="ABERTOS",GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/745
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72041.ts
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
 
 title="ABERTOS",GLOBO SP HD ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://pvsrvs.xyz:80/8N7aJE/wil456/2955
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72627.ts
 
 
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
 
 title="ABERTOS",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19424
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72026.ts
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD ALT" tvg-name="GLOBO RJ HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
-
-title="ABERTOS",GLOBO RJ HD ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/743
-
-#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-
-
-title="ABERTOS",GLOBO CURITIBA HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19427
-
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72027.ts
 
 
 INFANTIL
