@@ -79,9 +79,7 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5
 LOADING
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",LOADING
-plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://akamai2-
-
-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/89700.ts
 
 
 NICK JR
