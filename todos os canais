@@ -121,47 +121,34 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5
 CARTOON NETWORk
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" 
-
 group-title="INFANTIL",CARTOON NETWORK
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90596.ts
 
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK ALT" tvg-name="CARTOON NETWORK ALT" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-
-
-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK ALT
+#EXTINF:-1 tvg-id="CARTOON NETWORK ALT" tvg-name="CARTOON NETWORK ALT" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90597.ts
 
 DISCOVERY KIDS
 
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" 
-
-group-title="INFANTIL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90566.ts 
 
-#EXTINF:-1 tvg-id="DISCOVERY KIDS ALT" tvg-name="DISCOVERY KIDS ALT" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-
-
-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS ALT
+#EXTINF:-1 tvg-id="DISCOVERY KIDS ALT" tvg-name="DISCOVERY KIDS ALT" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90567.ts
 
 
 DISNEY CHANNEL
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" 
-
-group-title="INFANTIL",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90551.ts 
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL ALT" tvg-name="DISNEY CHANNEL ALT" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-
-
-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL ALT
+#EXTINF:-1 tvg-id="DISNEY CHANNEL ALT" tvg-name="DISNEY CHANNEL ALT" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90552.ts
 
 
 DISNEY JR
 
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-
-
-title="INFANTIL",DISNEY JR
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71897.ts
 
 
