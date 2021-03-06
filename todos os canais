@@ -98,30 +98,24 @@ INFANTIL
 
 BABY TV
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-
-
-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19156
 
 
-#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-
-
-title="INFANTIL",BABY TV ALT
+#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV ALT
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/483
 
 
 BOOMERANG
 
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-
-
-title="INFANTIL",BOOMERANG
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19165
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90644.ts
 
 
 #EXTINF:-1 tvg-id="BOOMERANG ALT" tvg-name="BOOMERANG ALT" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-
 
 title="INFANTIL",BOOMERANG ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19166
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71814.ts
 
 
 CARTOON NETWORk
@@ -129,25 +123,25 @@ CARTOON NETWORk
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" 
 
 group-title="INFANTIL",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19173
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90596.ts
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK ALT" tvg-name="CARTOON NETWORK ALT" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-
 
 NETWORK.png" group-title="INFANTIL",CARTOON NETWORK ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/797
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90597.ts
 
 DISCOVERY KIDS
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" 
 
 group-title="INFANTIL",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19189
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90566.ts 
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS ALT" tvg-name="DISCOVERY KIDS ALT" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-
 
 KIDS.png" group-title="INFANTIL",DISCOVERY KIDS ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/804
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90567.ts
 
 
 DISNEY CHANNEL
@@ -155,13 +149,12 @@ DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" 
 
 group-title="INFANTIL",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19199
-
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90551.ts 
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL ALT" tvg-name="DISNEY CHANNEL ALT" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-
 
 CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/809
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90552.ts
 
 
 DISNEY JR
@@ -169,13 +162,13 @@ DISNEY JR
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-
 
 title="INFANTIL",DISNEY JR
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19375
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71897.ts
 
 
 #EXTINF:-1 tvg-id="DISNEY JR ALT" tvg-name="DISNEY JR ALT" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-
 
 title="INFANTIL",DISNEY JR ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/810
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71898.ts
 
 
 DISNEY XD
@@ -183,7 +176,7 @@ DISNEY XD
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-
 
 title="INFANTIL",DISNEY XD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1099
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71899.ts
 
 
 #EXTINF:-1 tvg-id="DISNEY XD ALT" tvg-name="DISNEY XD ALT" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-
@@ -197,12 +190,12 @@ GLOOB
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-
 
 title="INFANTIL",GLOOB
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/826
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72100.ts
 
 #EXTINF:-1 tvg-id="GLOOB ALT" tvg-name="GLOOB ALT" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-
 
 title="INFANTIL",GLOOB ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1116
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90446.ts
 
 LOADING
 
@@ -217,29 +210,29 @@ br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
 NICK JR
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19282
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72203.ts
 
 #EXTINF:-1 tvg-id="NICK JR ALT" tvg-name="NICK JR ALT" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/847
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72204.ts
 
 
 NICKELODEON
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/7638
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72207.ts
 
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://ibb.co/Cw40KMb" group-
 
 title="ABERTOS",NICKELODEON ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1820
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72208.ts
 
 TOONCAST
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-
 
 title="ABERTOS",TOONCAST
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/11
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72385.ts
 
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-
@@ -269,21 +262,21 @@ ANIMAL PLANET
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-
 
 title="DOCUMENTARIOS",ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19151
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71775.ts
 
 
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" 
 
 group-title="DOCUMENTARIOS",ANIMAL PLANET ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/792
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90621.ts
 
 
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-
 
 PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT 2
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/965
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71776.ts
 
 
 
@@ -293,13 +286,13 @@ DISCOVERY CHANNEL
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-
 
 CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19183
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71865.ts
 
 
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-
 
 DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/801
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71866.ts
 
 
 
@@ -308,19 +301,19 @@ NAT GEO WILD
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-
 
 title="DOCUMENTARIOS",NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19278
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90395.ts 
 
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-
 
 title="DOCUMENTARIOS",NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/845
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72195.ts
 
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-
 
 title="DOCUMENTARIOS",NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1020
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72193.ts
 
 
 
@@ -331,21 +324,21 @@ NATIONAL GEOGRAPHIC
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-
 
 GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1785 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72199.ts
 
 
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT" tvg-name="NATIONAL GEOGRAPHIC ALT" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-
 
 NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/157
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90392.ts
 
 
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT 2" tvg-name="NATIONAL GEOGRAPHIC ALT 2" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-
 
 NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT 2
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1785
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72200.ts
 
 
 
@@ -355,13 +348,12 @@ DISCOVERY HOME AND HEALTH
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-
 
 DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1809
-
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90569.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-
 
 DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/187
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90570.ts
 
 
 
@@ -370,13 +362,13 @@ DISCOVERY SCIENCE
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/Y8WRyjT/LOGO-DISCOVERY-
 
 SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/7456
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71877.ts
 
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/Y8WRyjT/LOGO-DISCOVERY-
 
 SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/7433
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71878.ts
 
 
 
@@ -386,12 +378,12 @@ DISCOVERY TURBO
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/qFv85M8/LOGO-DISCOVERY-TURBO.png" 
 
 group-title="DOCUMENTARIOS",DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/7433
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90557.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO ALT" tvg-name="DISCOVERY TURBO ALT" tvg-logo="https://i.ibb.co/qFv85M8/LOGO-DISCOVERY-
 
 TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/7433
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90558.ts
 
 
 HISTORY CHANNEL
@@ -399,13 +391,13 @@ HISTORY CHANNEL
 #EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/HzT9My3/LOGO-HISTORY-CHANNEL.png" 
 
 group-title="DOCUMENTARIOS",HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1771
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72148.ts
 
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/HzT9My3/LOGO-HISTORY-
 
 CHANNEL.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/162
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90420.ts
 
 
 
@@ -430,27 +422,27 @@ INVESTIGAÇÃO DISCOVERY
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/hdrYb3f/LOGO-ID.png" 
 
 group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/2086
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72152.ts
 
 
 
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY ALT" tvg-name="INVESTIGAÇÃO DISCOVERY ALT" tvg-
 
 logo="https://i.ibb.co/hdrYb3f/LOGO-ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/132
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72152.ts
 
 
 
 TLC
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/QQgYhbc/LOGO-TLC.png" group-title="DOCUMENTARIOS",TLC
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1872
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72373.ts
 
 
 #EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://i.ibb.co/QQgYhbc/LOGO-TLC.png" group-
 
 title="DOCUMENTARIOS",TLC ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://brazilgroup.xyz:8880/yuri/yuri123/1665
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72374.ts
 
 
 FILMES
