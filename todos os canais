@@ -755,7 +755,7 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5
 TNT
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/7885037935/fireurl.co/72378.ts
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90302.ts
 
 
 #EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT ALT
