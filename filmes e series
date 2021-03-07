@@ -27,14 +27,12 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5
 
 AxN
 
-#EXTINF:-1 tvg-id="
-AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",
+#EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",
 AxN
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90617.ts
 
 
-#EXTINF:-1 tvg-id="
-AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",
+#EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://i.ibb.co/WHGnN3n/LOGO-AxN.png" group-title="FILMES",
 AxN
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71784.ts 
 
