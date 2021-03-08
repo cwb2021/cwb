@@ -1,128 +1,125 @@
+#EXTM3U
+
+
+
+VARIEDADES
+
+
 ARTE 1
 
-#EXTINF:-1 tvg-id="teste filme" tvg-name="teste filme" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",teste filme
-http://127.0.0.1:65220/play?uri=magnet:?xt=urn:btih:56599fe2869c1d21472e5b8532390d723c9a3ab0&doresume=false
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/115
 
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19153
-
-
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19152
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225177.m3u8
 
 
 
 BIS
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19164
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225226.m3u8
 
 
 #EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/795
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/120
 
 
 CANAL DO BOI
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19398
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225237.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI ALT" tvg-name="CANAL DO BOI ALT" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/491
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/491
 
 
 CANAL RURAL
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/Yfxx0qd/LOGO-CANAL-RURAL.png" group-title="VARIEDADES",CANAL RURAL
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/19573
 
 
 CANCAO NOVA
 
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/493
 
 
 #EXTINF:-1 tvg-id="CANCAO NOVA ALT" tvg-name="CANCAO NOVA ALT" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19171
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/19171
 
 
 COMEDY CENTRAL
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19179
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225277.m3u8
 
 
 #EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/800
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/127
 
 E!
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/YBd1pLh/LOGO-E.png" group-title="VARIEDADES",E!
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/141
 
 
 #EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/YBd1pLh/LOGO-E.png" group-title="VARIEDADES",E! ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225356.m3u8
 
 
 
 FUTURA
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/X5JBTLZ/LOGO-FUTURA.png" group-title="VARIEDADES",FUTURA
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19229
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225413.m3u8
 
 
 #EXTINF:-1 tvg-id="FUTURA ALT" tvg-name="FUTURA ALT" tvg-logo="https://i.ibb.co/X5JBTLZ/LOGO-FUTURA.png" group-title="VARIEDADES",FUTURA ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/1107
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/228
 
 
 GNT
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/m9ykGZL/LOGO-GNT.png" group-title="VARIEDADES",GNT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19239
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225530.m3u8
 
 
 #EXTINF:-1 tvg-id="GNT ALT" tvg-name="GNT ALT" tvg-logo="https://i.ibb.co/m9ykGZL/LOGO-GNT.png" group-title="VARIEDADES",GNT ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/155
 
 
 
 MULTISHOW
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/zFPLjcX/LOGO-MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/170
 
 
 
 #EXTINF:-1 tvg-id="MULTISHOW ALT" tvg-name="MULTISHOW ALT" tvg-logo="https://i.ibb.co/zFPLjcX/LOGO-MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/842
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225611.m3u8
 
 
 
 MTV
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/dKXvCRz/LOGO-MTV.png" group-title="VARIEDADES",MTV
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19269
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/169
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/dKXvCRz/LOGO-MTV.png" group-title="VARIEDADES",MTV
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/841
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225607.m3u8
 
 VH1
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/K5yLh9f/LOGO-VH1.png" group-title="VARIEDADES",VH1
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19367
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225866.m3u8
 
 #EXTINF:-1 tvg-id="VH1 ALT" tvg-name="VH1 ALT" tvg-logo="https://i.ibb.co/K5yLh9f/LOGO-VH1.png" group-title="VARIEDADES",VH1 ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/206
 
 
 
@@ -130,20 +127,18 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://li
 VIVA
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/DKw87Sx/LOGO-CANAL-VIVA.png" group-title="VARIEDADES",VIVA
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19370
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/207
 
 
 #EXTINF:-1 tvg-id="VIVA ALT" tvg-name="VIVA ALT" tvg-logo="https://i.ibb.co/DKw87Sx/LOGO-CANAL-VIVA.png" group-title="VARIEDADES",VIVA ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/881
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225869.m3u8
 
 
 WOOHOO
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="VARIEDADES",WOOHOO
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225875.m3u8
 
 
 #EXTINF:-1 tvg-id="WOOHOO ALT" tvg-name="WOOHOO ALT" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="VARIEDADES",WOOHOO ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/243
