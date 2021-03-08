@@ -1,146 +1,168 @@
 #EXTM3U
 
+ESPORTES
+
+
 BAND SPORTS
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/2Skz6Zq/LOGO-BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71803.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225190.m3u8
 
 
 #EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/2Skz6Zq/LOGO-BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71804.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/119
 
 
 
 COMBATE
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/Yt3xKtk/LOGO-COMBATE.png" group-title="ESPORTES",COMBATE
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71845.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/126
 
 
 #EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/Yt3xKtk/LOGO-COMBATE.png" group-title="ESPORTES",COMBATE ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71846.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225273.m3u8
 
-
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/Yt3xKtk/LOGO-COMBATE.png" group-title="ESPORTES",COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225272.m3u8
 
 
 ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/dpsv4Kf/LOGO-ESPN.png" group-title="ESPORTES",ESPN
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71922.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225360.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/dpsv4Kf/LOGO-ESPN.png" group-title="ESPORTES",ESPN ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71923.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225359.m3u8
+
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/dpsv4Kf/LOGO-ESPN.png" group-title="ESPORTES",ESPN ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/142
 
 
 
 ESPN BRASIL
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71913.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225367.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71914.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225368.m3u8
 
+#EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/144
+
+
+
+ESPN 2
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/143
+
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225363.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/N7LGj6C/LOGO-ESPN-BRASIL.png" group-title="ESPORTES",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225364.m3u8
 
 
 FOX SPORTS
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71960.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/152
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71961.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225406.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225405.m3u8
+
 
 
 FOX SPORTS 2
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71955.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/153
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/71956.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225409.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225410.m3u8
+
 
 
 OFF
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://i.ibb.co/Yyh0052/LOGO-OFF.png" group-title="ESPORTES",OFF
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72211.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225640.m3u8
 
 #EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/Yyh0052/LOGO-OFF.png" group-title="ESPORTES",OFF ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72212.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225641.m3u8
+
+#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/Yyh0052/LOGO-OFF.png" group-title="ESPORTES",OFF ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/177
 
 
 
 PREMIER CLUBES
 
 #EXTINF:-1 tvg-id="PREMIER CLUBES" tvg-name="PREMIER CLUBES" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72265.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/184
 
 #EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72266.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225650.m3u8 
+
+#EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225651.m3u8
 
 
 PREMIER 2
 
 #EXTINF:-1 tvg-id="PREMIER 2" tvg-name="PREMIER 2" tvg-logo="https://i.ibb.co/MkXWCn2/LOGO-PREMIER-2.png" group-title="ESPORTES",PREMIER 2
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72239.ts
-
-
-#EXTINF:-1 tvg-id="PREMIER 2 ALT" tvg-name="PREMIER 2 ALT" tvg-logo="https://i.ibb.co/MkXWCn2/LOGO-PREMIER-2.png" group-title="ESPORTES",PREMIER 2 ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72240.ts
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/179
 
 PREMIER 3
 
 #EXTINF:-1 tvg-id="PREMIER 3" tvg-name="PREMIER 3" tvg-logo="https://i.ibb.co/dtRqv2Z/LOGO-PREMIER-3.png" group-title="ESPORTES",PREMIER 3
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72243.ts
-
-
-#EXTINF:-1 tvg-id="PREMIER 3 ALT" tvg-name="PREMIER 3 ALT" tvg-logo="https://i.ibb.co/dtRqv2Z/LOGO-PREMIER-3.png" group-title="ESPORTES",PREMIER 3 ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72244.ts
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/180
 
 PREMIER 4
 
 #EXTINF:-1 tvg-id="PREMIER 4" tvg-name="PREMIER 4" tvg-logo="https://i.ibb.co/3sZ43fW/LOGO-PREMIER-4.png" group-title="ESPORTES",PREMIER 4
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/72248.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/181
 
 
-PREMIER 4
-
-#EXTINF:-1 tvg-id="PREMIER 4 ALT" tvg-name="PREMIER 4 ALT" tvg-logo="https://i.ibb.co/3sZ43fW/LOGO-PREMIER-4.png" group-title="ESPORTES",PREMIER 4 ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/live/amanda.iptv/a1aw5s/90371.ts
 
 
 SPORT TV
 
 EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201416
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/188
 
 
 EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/19327
 
 
 
 SPORT TV 2
 
 EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19324
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/189
 
 EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/201409
 
 
 SPORT TV 3
 
 EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/19326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/190
 
 EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/861
