@@ -4,7 +4,6 @@
 BIG BROTHER 2021
 
 
-
 #EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 1
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/254
