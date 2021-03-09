@@ -815,3 +815,30 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/242
+
+
+
+WOOHOO
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/7
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/14
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/133
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/243
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9646
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/136
+
+
+
+
+
+
