@@ -964,10 +964,20 @@ FOX LIFE
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/3ynqZyh/LOGO-FOX-LIFE.png" group-title="FILMES",FOX LIFE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/149
 
-
-
 #EXTINF:-1 tvg-id="FOX LIFE ALT" tvg-name="FOX LIFE ALT" tvg-logo="https://i.ibb.co/3ynqZyh/LOGO-FOX-LIFE.png" group-title="FILMES",FOX LIFE ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225393.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/149
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/3ynqZyh/LOGO-FOX-LIFE.png" group-title="FILMES",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4101
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/3ynqZyh/LOGO-FOX-LIFE.png" group-title="FILMES",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4153
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/3ynqZyh/LOGO-FOX-LIFE.png" group-title="FILMES",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6931
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/3ynqZyh/LOGO-FOX-LIFE.png" group-title="FILMES",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4154
 
 
 FX
@@ -975,9 +985,20 @@ FX
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/g95yY9W/LOGO-FX.png" group-title="FILMES",FX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/229
 
-
 #EXTINF:-1 tvg-id="FX ALT" tvg-name="FX ALT" tvg-logo="https://i.ibb.co/g95yY9W/LOGO-FX.png" group-title="FILMES",FX ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225416.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/229
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/g95yY9W/LOGO-FX.png" group-title="FILMES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9617
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/g95yY9W/LOGO-FX.png" group-title="FILMES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17125
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/g95yY9W/LOGO-FX.png" group-title="FILMES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4551
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/g95yY9W/LOGO-FX.png" group-title="FILMES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047307
 
 
 
@@ -986,20 +1007,42 @@ HBO
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/KsPhNgr/LOGO-HBO.png" group-title="FILMES",HBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/156
 
-
-
 #EXTINF:-1 tvg-id="HBO ALT" tvg-name="HBO ALT" tvg-logo="https://i.ibb.co/KsPhNgr/LOGO-HBO.png" group-title="FILMES",HBO ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225536.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/156
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/KsPhNgr/LOGO-HBO.png" group-title="FILMES",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5541
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/KsPhNgr/LOGO-HBO.png" group-title="FILMES",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/273
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/KsPhNgr/LOGO-HBO.png" group-title="FILMES",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4768
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/KsPhNgr/LOGO-HBO.png" group-title="FILMES",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047292
 
 
 HBO 2
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/hWMZ2hz/LOGO-HBO-2.png" group-title="FILMES",HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225541.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/157
 
 #EXTINF:-1 tvg-id="HBO 2 ALT" tvg-name="HBO 2 ALT" tvg-logo="https://i.ibb.co/hWMZ2hz/LOGO-HBO-2.png" group-title="FILMES",HBO 2 ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225542.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/hWMZ2hz/LOGO-HBO-2.png" group-title="FILMES",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4769
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/hWMZ2hz/LOGO-HBO-2.png" group-title="FILMES",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/279
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/hWMZ2hz/LOGO-HBO-2.png" group-title="FILMES",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047296
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/hWMZ2hz/LOGO-HBO-2.png" group-title="FILMES",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4099
+
 
 
 HBO FAMILY
@@ -1007,32 +1050,62 @@ HBO FAMILY
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/kKFbMDQ/LOGO-HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/158
 
-
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/kKFbMDQ/LOGO-HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9620
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/kKFbMDQ/LOGO-HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225546.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/276
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/kKFbMDQ/LOGO-HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17122
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/kKFbMDQ/LOGO-HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047294
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/kKFbMDQ/LOGO-HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/275
 
 
 HBO MUNDY 
 
 #EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/mTqV2n4/LOGO-HBO-MUNDY.png" group-title="FILMES",HBO MUNDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225562.m3u8
-
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5916
 
 #EXTINF:-1 tvg-id="HBO MUNDY ALT" tvg-name="HBO MUNDY ALT" tvg-logo="https://i.ibb.co/mTqV2n4/LOGO-HBO-MUNDY.png" group-title="FILMES",HBO MUNDY ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/159
+
+#EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/mTqV2n4/LOGO-HBO-MUNDY.png" group-title="FILMES",HBO MUNDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047291
+
+#EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/mTqV2n4/LOGO-HBO-MUNDY.png" group-title="FILMES",HBO MUNDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17357
+
+#EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/mTqV2n4/LOGO-HBO-MUNDY.png" group-title="FILMES",HBO MUNDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4827
+
+#EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/mTqV2n4/LOGO-HBO-MUNDY.png" group-title="FILMES",HBO MUNDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/240
 
 
 HBO PLUS
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/p1tTpk8/LOGO-HBO-PLUS.png" group-title="FILMES",HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225549.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6746
 
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/p1tTpk8/LOGO-HBO-PLUS.png" group-title="FILMES",HBO PLUS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/160
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/p1tTpk8/LOGO-HBO-PLUS.png" group-title="FILMES",HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/465
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/p1tTpk8/LOGO-HBO-PLUS.png" group-title="FILMES",HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/475
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/p1tTpk8/LOGO-HBO-PLUS.png" group-title="FILMES",HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/482
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/p1tTpk8/LOGO-HBO-PLUS.png" group-title="FILMES",HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/216
 
 
 HBO POP
