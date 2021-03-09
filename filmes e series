@@ -775,29 +775,43 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/259
 
 
-TRUE TV
-
-#EXTINF:-1 tvg-id="TRUE TV" tvg-name="TRUE TV" tvg-logo="https://i.ibb.co/ydcD1YL/LOGO-TRUE-TV.png" group-title="FILMES",TRUE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225838.m3u8
-
-
-#EXTINF:-1 tvg-id="TRUE TV ALT" tvg-name="TRUE TV ALT" tvg-logo="https://i.ibb.co/ydcD1YL/LOGO-TRUE-TV.png" group-title="FILMES",TRUE TV ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225839.m3u8
-
 
 UNIVERSAL CHANNEL
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225862.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/191
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ALT" tvg-name="UNIVERSAL CHANNEL ALT" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/191
 
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/205
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9642
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17097
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/209
+
 WARNER CHANNEL
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225871.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/208
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/208
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5848
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047202
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/241
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/242
