@@ -1,242 +1,242 @@
 #EXTM3U
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png",**************DESPORTO******************
-http://diretogo.com:80/a694360/6125381/10052999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052999
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/canal11.png",PT: CANAL 11
-http://diretogo.com:80/a694360/6125381/10052998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052998
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/canal11.png",PT: CANAL 11 HD
-http://diretogo.com:80/a694360/6125381/10052997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052997
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/canal11.png",PT: CANAL 11 FHD
-http://diretogo.com:80/a694360/6125381/10052996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052996
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv+.png",PT: SPORT TV +
-http://diretogo.com:80/a694360/6125381/10052995
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052995
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv+.png",PT: SPORT TV + FHD
-http://diretogo.com:80/a694360/6125381/10052994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052994
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1.png",PT: SPORT TV 1
-http://diretogo.com:80/a694360/6125381/10052993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052993
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1_hd.png",PT: SPORT TV 1 HD
-http://diretogo.com:80/a694360/6125381/10052992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052992
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1_hd.png",PT: SPORT TV 1 FHD
-http://diretogo.com:80/a694360/6125381/10052991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052991
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2.png",PT: SPORT TV 2
-http://diretogo.com:80/a694360/6125381/10052990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052990
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png",PT: SPORT TV 2 HD
-http://diretogo.com:80/a694360/6125381/10052989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052989
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png",PT: SPORT TV 2 FHD
-http://diretogo.com:80/a694360/6125381/10052988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052988
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3.png",PT: SPORT TV 3
-http://diretogo.com:80/a694360/6125381/10052987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052987
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png",PT: SPORT TV 3 HD
-http://diretogo.com:80/a694360/6125381/10052986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052986
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png",PT: SPORT TV 3 FHD
-http://diretogo.com:80/a694360/6125381/10052985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052985
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png",PT: SPORT TV 4
-http://diretogo.com:80/a694360/6125381/10052984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052984
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png",PT: SPORT TV 4 FHD
-http://diretogo.com:80/a694360/6125381/10052983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052983
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205.png",PT: SPORT TV 5
-http://diretogo.com:80/a694360/6125381/10052982
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052982
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205%20HD.png",PT: SPORT TV 5 FHD
-http://diretogo.com:80/a694360/6125381/10052981
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052981
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nba.png",PT: SPORT TV NBA FHD
-http://diretogo.com:80/a694360/6125381/10052980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052980
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven1.png",PT: ELEVEN SPORT 1 LOW
-http://diretogo.com:80/a694360/6125381/10052979
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052979
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven1.png",PT: ELEVEN SPORT 1 HD
-http://diretogo.com:80/a694360/6125381/10052978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052978
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven1.png",PT: ELEVEN SPORT 1  FHD
-http://diretogo.com:80/a694360/6125381/10052977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052977
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven2.png",PT: ELEVEN SPORT 2 LOW
-http://diretogo.com:80/a694360/6125381/10052976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052976
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven2.png",PT: ELEVEN SPORT 2 HD
-http://diretogo.com:80/a694360/6125381/10052975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052975
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven2.png",PT: ELEVEN SPORT 2  FHD
-http://diretogo.com:80/a694360/6125381/10052974
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052974
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven3.png",PT: ELEVEN SPORT 3 LOW
-http://diretogo.com:80/a694360/6125381/10052973
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052973
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven3.png",PT: ELEVEN SPORT 3 HD
-http://diretogo.com:80/a694360/6125381/10052972
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052972
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven3.png",PT: ELEVEN SPORT  3 FHD
-http://diretogo.com:80/a694360/6125381/10052971
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052971
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven4.png",PT: ELEVEN SPORT 4 HD
-http://diretogo.com:80/a694360/6125381/10052969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052969
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven4.png",PT: ELEVEN SPORT 4 FHD
-http://diretogo.com:80/a694360/6125381/10052968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052968
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven5.png",PT: ELEVEN SPORT 5 HD
-http://diretogo.com:80/a694360/6125381/10052966
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052966
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven5.png",PT: ELEVEN SPORT 5 FHD
-http://diretogo.com:80/a694360/6125381/10052965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052965
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven6.png",PT: ELEVEN SPORT 6 HD
-http://diretogo.com:80/a694360/6125381/10052963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052963
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven6.png",PT: ELEVEN SPORT 6 FHD
-http://diretogo.com:80/a694360/6125381/10052962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052962
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv.png",PT: BTV 1
-http://diretogo.com:80/a694360/6125381/10052961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052961
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png",PT: BTV 1 HD
-http://diretogo.com:80/a694360/6125381/10052960
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052960
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png",PT: BTV 1 FHD
-http://diretogo.com:80/a694360/6125381/10052959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052959
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sportingtv.png",PT: SPORTING TV
-http://diretogo.com:80/a694360/6125381/10052958
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052958
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sportingtv.png",PT: SPORTING TV FHD
-http://diretogo.com:80/a694360/6125381/10052957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052957
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/abola.png",PT: A BOLA TV
-http://diretogo.com:80/a694360/6125381/10052956
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052956
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/REALMADRIDTV.png",PT: REAL MADRID
-http://diretogo.com:80/a694360/6125381/10052955
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052955
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport1.png",PT: EUROSPORT 1
-http://diretogo.com:80/a694360/6125381/10052954
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052954
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport1_hd.png",PT: EUROSPORT 1 FHD
-http://diretogo.com:80/a694360/6125381/10052953
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052953
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport2.png",PT: EUROSPORT 2
-http://diretogo.com:80/a694360/6125381/10052952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052952
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/pfc.png",PT: PFC
-http://diretogo.com:80/a694360/6125381/10052951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052951
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nba_tv.png",PT: NBA TV
-http://diretogo.com:80/a694360/6125381/10052950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052950
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/motorvision.png",PT: MOTORVISION
-http://diretogo.com:80/a694360/6125381/10052949
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052949
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/cacaepesca.png",PT: CACA E PESCA
-http://diretogo.com:80/a694360/6125381/10052946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052946
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/cacavision.png",PT: CACAVISION
-http://diretogo.com:80/a694360/6125381/10052945
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052945
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/toros.png",PT: TOROS TV
-http://diretogo.com:80/a694360/6125381/10052944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052944
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png",************* CULTURA ************
-http://diretogo.com:80/a694360/6125381/10052943
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052943
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeographic_hd.png",PT: NATIONAL GEOGRAPHIC FHD
-http://diretogo.com:80/a694360/6125381/10052942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052942
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeo_wild.png",PT: NAT GEO WILD
-http://diretogo.com:80/a694360/6125381/10052941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052941
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISCOVERYHD.png",PT: DISCOVERY CHANNEL
-http://diretogo.com:80/a694360/6125381/10052940
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052940
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISCOVERYHD.png",PT: DISCOVERY CHANNEL FHD
-http://diretogo.com:80/a694360/6125381/10052939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052939
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png",PT: ID INVESTIGATION DISCOVERY HD
-http://diretogo.com:80/a694360/6125381/10052938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052938
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png",PT: ID INVESTIGATION DISCOVERY FHD
-http://diretogo.com:80/a694360/6125381/10052937
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052937
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/travelchannel_hd.png",PT: TRAVEL CHANNEL FHD
-http://diretogo.com:80/a694360/6125381/10052936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052936
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/crimeinvestgation.png",PT: CRIME   INVESTIGATION
-http://diretogo.com:80/a694360/6125381/10052935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052935
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/ODISSEIA.png",PT: ODISSEIA
-http://diretogo.com:80/a694360/6125381/10052934
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052934
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/ODISSEIA.png",PT: ODISSEIA FHD
-http://diretogo.com:80/a694360/6125381/10052933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052933
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BLAZE.png",PT: BLAZE TV
-http://diretogo.com:80/a694360/6125381/10052932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052932
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BLAZE.png",PT: BLAZE TV FHD
-http://diretogo.com:80/a694360/6125381/10052931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052931
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/historia.png",PT: HISTORIA
-http://diretogo.com:80/a694360/6125381/10052930
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052930
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TLC.png",PT: TLC
-http://diretogo.com:80/a694360/6125381/10052925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052925
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png",************* INFANTIL ************
-http://diretogo.com:80/a694360/6125381/10052923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052923
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICK.png",PT: SIC K
-http://diretogo.com:80/a694360/6125381/10052922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052922
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISNEYJR.png",PT: DISNEY JUNIOR
-http://diretogo.com:80/a694360/6125381/10052921
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052921
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISNEYCHANNEL.png",PT: DISNEY CHANNEL
-http://diretogo.com:80/a694360/6125381/10052920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052920
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CARTOONNETWORK.png",PT: CARTOON NETWORK
-http://diretogo.com:80/a694360/6125381/10052919
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052919
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CANALPANDA.png",PT: CANAL PANDA
-http://diretogo.com:80/a694360/6125381/10052918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052918
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/biggs.png",PT: BIGGS
-http://diretogo.com:80/a694360/6125381/10052917
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052917
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nickelodeon.png",PT: NICKELODEON
-http://diretogo.com:80/a694360/6125381/10052916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052916
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nickjr.png",PT: NICK JR.
-http://diretogo.com:80/a694360/6125381/10052915
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052915
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BABYTV.png",PT: BABY TV
-http://diretogo.com:80/a694360/6125381/10052914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052914
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png",***********PORTUGAL**************
-http://diretogo.com:80/a694360/6125381/10053133
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053133
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP1.png",PT: RTP 1
-http://diretogo.com:80/a694360/6125381/10053132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053132
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP1.png",PT: RTP 1 HD
-http://diretogo.com:80/a694360/6125381/10053131
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053131
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP1.png",PT: RTP 1 FHD
-http://diretogo.com:80/a694360/6125381/10053130
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053130
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP2.png",PT: RTP 2
-http://diretogo.com:80/a694360/6125381/10053129
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053129
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP2.png",PT: RTP 2 HD
-http://diretogo.com:80/a694360/6125381/10053128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053128
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP2.png",PT: RTP 2 FHD
-http://diretogo.com:80/a694360/6125381/10053127
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053127
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC.png",PT: SIC
-http://diretogo.com:80/a694360/6125381/10053126
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053126
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC.png",PT: SIC HD
-http://diretogo.com:80/a694360/6125381/10053125
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053125
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC.png",PT: SIC FHD
-http://diretogo.com:80/a694360/6125381/10053124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053124
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI.png",PT: TVI
-http://diretogo.com:80/a694360/6125381/10053123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053123
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI.png",PT: TVI HD
-http://diretogo.com:80/a694360/6125381/10053122
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053122
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI.png",PT: TVI FHD
-http://diretogo.com:80/a694360/6125381/10053121
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053121
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CMTV.png",PT: CMTV
-http://diretogo.com:80/a694360/6125381/10053120
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053120
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CMTVHD.png",PT: CMTV FHD
-http://diretogo.com:80/a694360/6125381/10053119
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053119
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTP3.png",PT: RTP 3
-http://diretogo.com:80/a694360/6125381/10053118
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053118
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTP3.png",PT: RTP 3 FHD
-http://diretogo.com:80/a694360/6125381/10053117
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053117
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI24.png",PT: TVI 24
-http://diretogo.com:80/a694360/6125381/10053116
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053116
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI24.png",PT: TVI 24 FHD
-http://diretogo.com:80/a694360/6125381/10053115
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053115
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICNOTICIAS.png",PT: SIC NOTICIAS
-http://diretogo.com:80/a694360/6125381/10053114
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053114
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICNOTICIAS.png",PT: SIC NOTICIAS FHD
-http://diretogo.com:80/a694360/6125381/10053113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053113
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICMULHER.png",PT: SIC MULHER
-http://diretogo.com:80/a694360/6125381/10053112
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053112
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICMULHER.png",PT: SIC MULHER FHD
-http://diretogo.com:80/a694360/6125381/10053111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053111
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICCARAS.png",PT: SIC CARAS
-http://diretogo.com:80/a694360/6125381/10053110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053110
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICRADICAL.png",PT: SIC RADICAL
-http://diretogo.com:80/a694360/6125381/10053109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053109
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICRADICAL.png",PT: SIC RADICAL FHD
-http://diretogo.com:80/a694360/6125381/10053108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053108
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/24KITCHENHD.png",PT: 24 KITCHEN
-http://diretogo.com:80/a694360/6125381/10053107
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053107
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/PORTOCANAL.png",PT: PORTO CANAL
-http://diretogo.com:80/a694360/6125381/10053106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053106
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/PORTOCANAL.png",PT: PORTO CANAL FHD
-http://diretogo.com:80/a694360/6125381/10053105
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053105
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvificcao.png",PT: TVI FICCAO
-http://diretogo.com:80/a694360/6125381/10053104
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053104
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvificcao.png",PT: TVI FICCAO FHD
-http://diretogo.com:80/a694360/6125381/10053103
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053103
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBOPREMIUM.png",PT: GLOBO PORTUGAL FHD
-http://diretogo.com:80/a694360/6125381/10053102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053102
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBONOW.png",PT: GLOBO NOW
-http://diretogo.com:80/a694360/6125381/10053101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053101
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBO.png",PT: GLOBO
-http://diretogo.com:80/a694360/6125381/10053100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053100
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPMEMORIA.png",PT: RTP MEMORIA
-http://diretogo.com:80/a694360/6125381/10053099
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053099
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPMADEIRA.png",PT: RTP MADEIRA
-http://diretogo.com:80/a694360/6125381/10053098
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053098
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPAFRICA.png",PT: RTP AFRICA
-http://diretogo.com:80/a694360/6125381/10053097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053097
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPACORES.png",PT: RTP ACORES
-http://diretogo.com:80/a694360/6125381/10053096
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053096
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png",PT: TVI REALITY
-http://diretogo.com:80/a694360/6125381/10053095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053095
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png",PT: TVI REALITY FHD
-http://diretogo.com:80/a694360/6125381/10053094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053094
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png",******* PT EXCLUSIVO **********
-http://diretogo.com:80/a694360/6125381/10053089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053089
 #EXTINF:-1 group-title="PORTUGAL",PT: WWE 24 HOURS ( EX)
-http://diretogo.com:80/a694360/6125381/10053088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053088
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6rb6mVALacgW7vpveDeTXfUodD2CtvHfE6w&usqp=CAU",PT: MARVEL VS DC (EX)
-http://diretogo.com:80/a694360/6125381/10053085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10053085
 
 
 
