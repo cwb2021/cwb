@@ -1,5 +1,299 @@
 #EXTM3U
 
+INFANTIL
+
+
+BABY TV
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/117
+
+
+#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/117
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027048
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4885
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4789
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040729
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040730
+
+
+
+
+
+
+
+
+
+BOOMERANG
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/121
+
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/121
+
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4130
+
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5827
+
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/60
+
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/sJnV0zh/LOGO-BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040735
+
+
+
+CARTOON NETWORk
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/124
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/124
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5930
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/63
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4226
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/7000
+
+
+
+
+DISCOVERY KIDS
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/133
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/133
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/133
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4826
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/46
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/pPrfqxv/LOGO-DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047334
+
+
+
+DISNEY CHANNEL
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/138
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/138
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/138
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5924
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2852
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/s5zvz8S/LOGO-DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/58
+
+
+DISNEY JR
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/139
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/139
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/139
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6756
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6987
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/m5C9bgV/LOGO-DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6988
+
+
+DISNEY XD
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/140
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/140
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027049
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2850
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5949
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/pjkSMvG/LOGO-DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6990
+
+GLOOB
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/154
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/154
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/154
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5918
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2819
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/44
+
+
+LOADING
+
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/6Pb67M4/LOGO-LOADING.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052808
+
+
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/6Pb67M4/LOGO-LOADING.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052807
+
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/6Pb67M4/LOGO-LOADING.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10052806
+
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/6Pb67M4/LOGO-LOADING.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/21871
+
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/6Pb67M4/LOGO-LOADING.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/21870
+
+
+
+
+NICK JR
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/176
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/176
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/176
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5911
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5045
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://ibb.co/2Sm7351" group-title="ABERTOS",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/52
+
+
+NICKELODEON
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047255
+
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047254
+
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039588
+
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039589
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4055
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://ibb.co/Cw40KMb" group-title="ABERTOS",NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4053
+
+
+
+TOONCAST
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/203
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/203
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/203
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027050
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027051
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/1M6ps8w/LOGO-TOONCAST.png" group-title="ABERTOS",TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/48
+
+
+RATIMBUM
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/204
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/204
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/7006
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4261
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4258
+
+#EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/mXm02Xy/LOGO-TV-RATIMBUM.png" group-title="ABERTOS",RATIMBUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/7005
 
 
 
