@@ -166,25 +166,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/31
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://rec2.distv.net:80/dinho/dinho/31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/31
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://rec2.distv.net:80/dinho/dinho/33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/33
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/336
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/336
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/8939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/8939
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/5098
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5098
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/10027009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027009
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/10027008
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027008
 
 
 
