@@ -1329,45 +1329,87 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 SYFY
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/Q9KQcPh/LOGO-SYFY.png" group-title="FILMES",SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225766.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/192
 
 #EXTINF:-1 tvg-id="SYFY ALT" tvg-name="SYFY ALT" tvg-logo="https://i.ibb.co/Q9KQcPh/LOGO-SYFY.png" group-title="FILMES",SYFY ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/192
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/Q9KQcPh/LOGO-SYFY.png" group-title="FILMES",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17333
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/Q9KQcPh/LOGO-SYFY.png" group-title="FILMES",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2762
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/Q9KQcPh/LOGO-SYFY.png" group-title="FILMES",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/216
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/Q9KQcPh/LOGO-SYFY.png" group-title="FILMES",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040823
 
 
 TBS
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/qmc0KLZ/LOGO-TBS.png" group-title="FILMES",TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225770.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/193
 
 #EXTINF:-1 tvg-id="TBS ALT" tvg-name="TBS ALT" tvg-logo="https://i.ibb.co/qmc0KLZ/LOGO-TBS.png" group-title="FILMES",TBS ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/193
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/qmc0KLZ/LOGO-TBS.png" group-title="FILMES",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9637
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/qmc0KLZ/LOGO-TBS.png" group-title="FILMES",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/220
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/qmc0KLZ/LOGO-TBS.png" group-title="FILMES",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17139
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/qmc0KLZ/LOGO-TBS.png" group-title="FILMES",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047236
 
 
 
 TCM
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/PCyZHm0/LOGO-TCM.png" group-title="FILMES",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225775.m3u8
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027045
 
 #EXTINF:-1 tvg-id="TCM ALT" tvg-name="TCM ALT" tvg-logo="https://i.ibb.co/PCyZHm0/LOGO-TCM.png" group-title="FILMES",TCM ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225776.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027044
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/PCyZHm0/LOGO-TCM.png" group-title="FILMES",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/214
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/PCyZHm0/LOGO-TCM.png" group-title="FILMES",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4080
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/PCyZHm0/LOGO-TCM.png" group-title="FILMES",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4079
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/PCyZHm0/LOGO-TCM.png" group-title="FILMES",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/50884
 
 
 
 TELECINE ACTION
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/mRMTf0k/LOGO-TELE-CINE-ACTION.png" group-title="FILMES",TELECINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225777.m3u8
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/194
 
 #EXTINF:-1 tvg-id="TELECINE ACTION ALT" tvg-name="TELECINE ACTION ALT" tvg-logo="https://i.ibb.co/mRMTf0k/LOGO-TELE-CINE-ACTION.png" group-title="FILMES",TELECINE ACTION ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/194
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/mRMTf0k/LOGO-TELE-CINE-ACTION.png" group-title="FILMES",TELECINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/295
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/mRMTf0k/LOGO-TELE-CINE-ACTION.png" group-title="FILMES",TELECINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047234
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/mRMTf0k/LOGO-TELE-CINE-ACTION.png" group-title="FILMES",TELECINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039637
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/mRMTf0k/LOGO-TELE-CINE-ACTION.png" group-title="FILMES",TELECINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039638
 
 
 
@@ -1376,9 +1418,20 @@ TELECINE CULT
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/xfwkVK2/LOGO-TELE-CINE-CULT.png" group-title="FILMES",TELECINE CULT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/195
 
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/xfwkVK2/LOGO-TELE-CINE-CULT.png" group-title="FILMES",TELECINE CULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/195
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/xfwkVK2/LOGO-TELE-CINE-CULT.png" group-title="FILMES",TELECINE CULT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225784.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/281
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/xfwkVK2/LOGO-TELE-CINE-CULT.png" group-title="FILMES",TELECINE CULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047230
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/xfwkVK2/LOGO-TELE-CINE-CULT.png" group-title="FILMES",TELECINE CULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039640
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/xfwkVK2/LOGO-TELE-CINE-CULT.png" group-title="FILMES",TELECINE CULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040825
 
 
 TELECINE FUN
@@ -1386,41 +1439,87 @@ TELECINE FUN
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/3hwctJZ/LOGO-TELE-CINE-FUN.png" group-title="FILMES",TELECINE FUN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/196
 
-
 #EXTINF:-1 tvg-id="TELECINE FUN ALT" tvg-name="TELECINE FUN ALT" tvg-logo="https://i.ibb.co/3hwctJZ/LOGO-TELE-CINE-FUN.png" group-title="FILMES",TELECINE FUN ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225790.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/196
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/3hwctJZ/LOGO-TELE-CINE-FUN.png" group-title="FILMES",TELECINE FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/292
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/3hwctJZ/LOGO-TELE-CINE-FUN.png" group-title="FILMES",TELECINE FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047232
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/3hwctJZ/LOGO-TELE-CINE-FUN.png" group-title="FILMES",TELECINE FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039642
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/3hwctJZ/LOGO-TELE-CINE-FUN.png" group-title="FILMES",TELECINE FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040826
 
 
 
 TELECINE PIPOCA
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/kmZs6Hb/LOGO-TELE-CINE-PIPOCA.png" group-title="FILMES",TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225795.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/197
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA ALT" tvg-name="TELECINE PIPOCA ALT" tvg-logo="https://i.ibb.co/kmZs6Hb/LOGO-TELE-CINE-PIPOCA.png" group-title="FILMES",TELECINE PIPOCA ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/197
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/kmZs6Hb/LOGO-TELE-CINE-PIPOCA.png" group-title="FILMES",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5441
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/kmZs6Hb/LOGO-TELE-CINE-PIPOCA.png" group-title="FILMES",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2754
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/kmZs6Hb/LOGO-TELE-CINE-PIPOCA.png" group-title="FILMES",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047226
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/kmZs6Hb/LOGO-TELE-CINE-PIPOCA.png" group-title="FILMES",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039644
 
 
 TELECINE PREMIUM
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/PY2mXC9/LOGO-TELE-CINE-PREMIUM.png" group-title="FILMES",TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225801.m3u8
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/198
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM ALT" tvg-name="TELECINE PREMIUM ALT" tvg-logo="https://i.ibb.co/PY2mXC9/LOGO-TELE-CINE-PREMIUM.png" group-title="FILMES",TELECINE PREMIUM ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/198
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/PY2mXC9/LOGO-TELE-CINE-PREMIUM.png" group-title="FILMES",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/286
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/PY2mXC9/LOGO-TELE-CINE-PREMIUM.png" group-title="FILMES",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047228
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/PY2mXC9/LOGO-TELE-CINE-PREMIUM.png" group-title="FILMES",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039646
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/PY2mXC9/LOGO-TELE-CINE-PREMIUM.png" group-title="FILMES",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040828
+
 
 
 
 TELECINE TOUCH
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/r0X8WmG/LOGO-TELE-CINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225807.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/199
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH ALT" tvg-name="TELECINE TOUCH ALT" tvg-logo="https://i.ibb.co/r0X8WmG/LOGO-TELE-CINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/199
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/r0X8WmG/LOGO-TELE-CINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/283
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/r0X8WmG/LOGO-TELE-CINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047224
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/r0X8WmG/LOGO-TELE-CINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039648
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/r0X8WmG/LOGO-TELE-CINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040829
+
 
 
 TNT
@@ -1428,47 +1527,104 @@ TNT
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/201
 
-
 #EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225822.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/201
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9638
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/263
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17099
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/qrdpvJY/LOGO-TNT.png" group-title="FILMES",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/262
 
 
 TNT SERIES
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/8bmV9CQ/LOGO-TNT-SERIES.png" group-title="FILMES",TNT SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225825.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/202
 
 #EXTINF:-1 tvg-id="TNT SERIES ALT" tvg-name="TNT SERIES ALT" tvg-logo="https://i.ibb.co/8bmV9CQ/LOGO-TNT-SERIES.png" group-title="FILMES",TNT SERIES ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/202
 
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/8bmV9CQ/LOGO-TNT-SERIES.png" group-title="FILMES",TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9639
 
-TRUE TV
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/8bmV9CQ/LOGO-TNT-SERIES.png" group-title="FILMES",TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/260
 
-#EXTINF:-1 tvg-id="TRUE TV" tvg-name="TRUE TV" tvg-logo="https://i.ibb.co/ydcD1YL/LOGO-TRUE-TV.png" group-title="FILMES",TRUE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225838.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/8bmV9CQ/LOGO-TNT-SERIES.png" group-title="FILMES",TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17098
 
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/8bmV9CQ/LOGO-TNT-SERIES.png" group-title="FILMES",TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/259
 
-#EXTINF:-1 tvg-id="TRUE TV ALT" tvg-name="TRUE TV ALT" tvg-logo="https://i.ibb.co/ydcD1YL/LOGO-TRUE-TV.png" group-title="FILMES",TRUE TV ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225839.m3u8
 
 
 UNIVERSAL CHANNEL
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225862.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/191
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ALT" tvg-name="UNIVERSAL CHANNEL ALT" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/191
 
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/205
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9642
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17097
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/bQPPT57/LOGO-UNIVERSAL-CHANNEL.png" group-title="FILMES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/209
+
 WARNER CHANNEL
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225871.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/208
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/208
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5848
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047202
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/241
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/k5t50Nq/LOGO-WARNER-CHANNEL.png" group-title="FILMES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/242
+
+
+
+WOOHOO
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/7
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/14
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/133
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/243
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9646
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/C1V3CrL/LOGO-WOHOO.png" group-title="FILMES",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/136
 
 
 VARIEDADES
