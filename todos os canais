@@ -555,17 +555,22 @@ DOCUMENTÁRIOS
 ANIMAL PLANET
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225173.m3u8
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/114
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/114
 
-
-
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/114
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5902
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/116
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/HBvqNMJ/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/117
 
 
 
@@ -575,26 +580,40 @@ DISCOVERY CHANNEL
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/130
 
-
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/114
 
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/130
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5536
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/133
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djyMJPp/LOGO-DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/132
 
 NAT GEO WILD
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/174
 
-
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/174
 
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/174
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225625.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/6541
 
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/106
 
-
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/Xb5Ncqx/LOGO-NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/105
 
 
 NATIONAL GEOGRAPHIC
@@ -602,16 +621,20 @@ NATIONAL GEOGRAPHIC
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/172
 
-
-
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT" tvg-name="NATIONAL GEOGRAPHIC ALT" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225617.m3u8
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9632
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT 2" tvg-name="NATIONAL GEOGRAPHIC ALT 2" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/172
 
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/103
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/102
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/vm2C1S2/LOGO-NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047260
 
 
 DISCOVERY HOME AND HEALTH
@@ -619,13 +642,20 @@ DISCOVERY HOME AND HEALTH
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/131
 
-
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/131
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225319.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/131
 
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/168
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/183
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/gr8cgSX/LOGO-DISCOVERY-HOME-AND-HEALTH.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/198
 
 
 
