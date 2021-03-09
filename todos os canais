@@ -54,6 +54,24 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/262
 
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/254
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/255
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/256
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Confessionario
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/257
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Cozinha Vip Xepa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/258
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Mosaico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/259
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Piscina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/260
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Quarto Colorido
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/261
+#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Sala de Estar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/262
 
 
 
@@ -69,12 +87,29 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND SP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/224
 
-#EXTINF:-1 tvg-id="BAND RJ" tvg-name="BAND RJ" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225197.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/224
 
-#EXTINF:-1 tvg-id="BAND RJ" tvg-name="BAND RJ" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/729
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4895
 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9032
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4132
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAN" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027013
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAN" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039445
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAN" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040732
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAN" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3819
 
 
 
@@ -91,11 +126,30 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/238
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225723.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/238
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225725.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/330
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/16849
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4079
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047241
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10049867
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027018
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10049869
+
 
 
 RECORD
@@ -111,24 +165,47 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/31
 
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://rec2.distv.net:80/dinho/dinho/31
 
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://rec2.distv.net:80/dinho/dinho/33
+
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/336
+
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/8939
+
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/5098
+
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/10027009
+
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=http://diretogo.com:80/a694360/6125381/10027008
 
 
 
 CULTURA
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA PR
+#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/128
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA PR
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/128
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225850.m3u8
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027022
 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2741
 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039469
 
 
 
@@ -151,6 +228,26 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 #EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO CURITIBA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/14
 
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/231
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/14
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047305
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4913
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/345
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2823
+
+
+
 
 
 INFANTIL
@@ -163,7 +260,29 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 
 #EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/483
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/117
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10027048
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4885
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4789
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040729
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/61VySS7/LOGO-BABY-TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040730
+
+
+
+
+
+
+
 
 
 BOOMERANG
