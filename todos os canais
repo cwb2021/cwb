@@ -2162,12 +2162,20 @@ SPORT TV
 EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/188
 
-
 EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/19327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/188
 
 EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/188
+
+EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4797
+
+EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/177
+
+EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/176
 
 SPORT TV 2
 
@@ -2175,10 +2183,19 @@ EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/N
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/189
 
 EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/201409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/189
 
 EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/189
+
+EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/172
+
+EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4900
+
+EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/171
 
 
 SPORT TV 3
@@ -2187,7 +2204,16 @@ EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/B
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/190
 
 EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/190
 
 EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/190
+
+EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/167
+
+EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/166
+
+EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17104
