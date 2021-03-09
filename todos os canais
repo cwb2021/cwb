@@ -54,23 +54,29 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/262
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Acompanhe a Casa
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/254
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa 2
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Acompanhe a Casa 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/255
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Acompanhe a Casa Extra
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Acompanhe a Casa Extra
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/256
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Confessionario
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Confessionario
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/257
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Cozinha Vip Xepa
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Cozinha Vip Xepa
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/258
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Mosaico
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Mosaico
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/259
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Piscina
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Piscina
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/260
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Quarto Colorido
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Quarto Colorido
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/261
-#EXTINF:-1 group-title="BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png",BBB Sala de Estar
+
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Sala de Estar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/262
 
 
