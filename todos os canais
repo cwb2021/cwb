@@ -1641,56 +1641,114 @@ ARTE 1
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/115
 
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/115
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225177.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9647
 
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/5474
 
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10040727
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/G0mk20d/LOGO-ANIMAL-ART-1.png" group-title="VARIEDADES",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3993
 
 BIS
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225226.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039449
 
 #EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/120
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/120
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4955
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4955
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10047347
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/bJfJXVQ/LOGO-BIS.png" group-title="VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039448
 
 
 CANAL DO BOI
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225237.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10048418
 
 #EXTINF:-1 tvg-id="CANAL DO BOI ALT" tvg-name="CANAL DO BOI ALT" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/491
+
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10667
+
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039455
+
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10039454
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/crmtC73/LOGO-CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3855
 
 
 CANAL RURAL
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/Yfxx0qd/LOGO-CANAL-RURAL.png" group-title="VARIEDADES",CANAL RURAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/19573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/10666
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/Yfxx0qd/LOGO-CANAL-RURAL.png" group-title="VARIEDADES",CANAL RURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6827
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/Yfxx0qd/LOGO-CANAL-RURAL.png" group-title="VARIEDADES",CANAL RURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/81
+
 
 
 CANCAO NOVA
 
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4602
 
 
 #EXTINF:-1 tvg-id="CANCAO NOVA ALT" tvg-name="CANCAO NOVA ALT" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://lista.lorddark.club:80/5247/5247/19171
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/33379
+
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/49112
+
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/RTdtrvX/LOGO-CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/552
 
 
 COMEDY CENTRAL
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://brxp2p.xyz:8080/live/edjane/123456/225277.m3u8
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/127
 
 #EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/127
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/9605
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/2861
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17065
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/x8p4hYF/LOGO-COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/97
 
 E!
 
