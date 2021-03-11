@@ -8,51 +8,51 @@ BIG BROTHER 2021
 
 #EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 1
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/254
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/39347
 
 
 
 #EXTINF:-1 tvg-id="BBB 2" tvg-name="BBB 2" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 2
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/255
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/33752
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 3" tvg-name="BBB 3" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 3
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/27804
 
 
 
 #EXTINF:-1 tvg-id="BBB 4" tvg-name="BBB 4" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 4
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/258
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/27864
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 5" tvg-name="BBB 5" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 5
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/259
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/27801
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 6" tvg-name="BBB 6" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 6
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/diego1/diego1/254
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 7" tvg-name="BBB 7" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 7
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/22048
 
 #EXTINF:-1 tvg-id="BBB 8" tvg-name="BBB 8" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png" group-title="ABERTOS",BBB 8
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/22052
 
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/3zPkr7v/LOGO-BBB.png",BBB Acompanhe a Casa
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/254
@@ -87,7 +87,7 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/68
 
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND SP
@@ -125,7 +125,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 SBT
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/238
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32487
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/1Jdyd00/LOGO-SBT.png" group-title="ABERTOS",SBT
@@ -161,11 +161,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 RECORD
 
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://5ce.me:80/Mariaalmeida/almeida123/35394
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/42908
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/vzJ4rPZ/LOGO-RECORD.png" group-title="ABERTOS",RECORD HD ALT
@@ -197,7 +197,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 CULTURA
 
 #EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32328
 
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/vD4fWP5/LOGO-TV-CULTURA.png" group-title="ABERTOS",CULTURA 
@@ -220,15 +220,15 @@ GLOBO
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32895
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/34018
 
 
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://5ce.me:80/Mariaalmeida/almeida123/35700
 
 
 #EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/2c2NGCc/LOGO-GLOBO.png" group-title="ABERTOS",GLOBO CURITIBA HD
@@ -321,7 +321,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 CARTOON NETWORk
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6636
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/7Xbb66n/LOGO-CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/124
