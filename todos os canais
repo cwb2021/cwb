@@ -1906,6 +1906,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 ESPORTES
 
 
+ESPORTES
+
+
 BAND SPORTS
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/2Skz6Zq/LOGO-BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
@@ -2071,7 +2074,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 FOX SPORTS
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/152
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/diego1/diego1/152
 
 #EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/QjVndzn/LOGO-FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/152
@@ -2093,7 +2096,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 FOX SPORTS 2
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/153
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4577
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/d7rJSdN/LOGO-FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/153
@@ -2137,7 +2140,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 PREMIER CLUBES
 
 #EXTINF:-1 tvg-id="PREMIER CLUBES" tvg-name="PREMIER CLUBES" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/124
 
 #EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/H43QLnh/LOGO-PREMIER.png" group-title="ESPORTES",PREMIER CLUBES ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/184
@@ -2198,7 +2201,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 PREMIER 4
 
 #EXTINF:-1 tvg-id="PREMIER 4" tvg-name="PREMIER 4" tvg-logo="https://i.ibb.co/3sZ43fW/LOGO-PREMIER-4.png" group-title="ESPORTES",PREMIER 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/181
 
 #EXTINF:-1 tvg-id="PREMIER 4" tvg-name="PREMIER 4" tvg-logo="https://i.ibb.co/3sZ43fW/LOGO-PREMIER-4.png" group-title="ESPORTES",PREMIER 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/181
@@ -2219,7 +2222,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 SPORT TV
 
 ######EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/188
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32446
 
 #####EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://i.ibb.co/26L2jYR/LOGO-SPORT-TV.png" group-title="ESPORTES",SPORT TV ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/188
@@ -2239,7 +2242,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 SPORT TV 2
 
 ##EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://5ce.me:80/Mariaalmeida/almeida123/6480
 
 #EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/189
@@ -2260,7 +2263,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 SPORT TV 3
 
 #EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/pedro1/pedro1/190
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://5ce.me:80/Mariaalmeida/almeida123/6478
 
 #EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/190
@@ -2276,3 +2279,4 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 #EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://i.ibb.co/BPB5XDR/LOGO-SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/17104
+
