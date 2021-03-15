@@ -87,11 +87,11 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://diretogo.com:80/a694360/6125381/4895
 
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3809
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/fxhzHM6/LOGO-BAND.png" group-title="ABERTOS",BAND 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/dinho/dinho/224
