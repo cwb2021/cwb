@@ -1,165 +1,93 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51l7M8370eL._AC_SY400_.jpg" group-title="CANAIS 24HRS | PLAYER VIP",3 Palavrinhas
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51l7M8370eL._AC_SY400_.jpg",3 Palavrinhas
 http://pvsrvs.xyz:80/8N7aJE/wil456/4163
-
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24HRS!" tvg-logo="https://i.pinimg.com/236x/c3/a8/cf/c3a8cf5db8acbac10fb4d1ecba2618e8.jpg" group-title="CANAIS 24 HORAS",3 Palavrinhas 24HRS!
+#EXTINF:-1 group-title="CANAIS 24 HORAS" tvg-logo="https://i.pinimg.com/236x/c3/a8/cf/c3a8cf5db8acbac10fb4d1ecba2618e8.jpg",3 Palavrinhas 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23614
-
-#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira 24HRS!" tvg-logo="https://media.fstatic.com/poVMCM1EqmUtj320F6355-dre9g=/fit-in/290x478/smart/media/movies/covers/2014/09/a-feiticeira-6a-temporada_t76848_1.jpg" group-title="CANAIS 24 HORAS",A Feiticeira 24HRS!
+#EXTINF:-1 group-title="CANAIS 24 HORAS" tvg-logo="https://media.fstatic.com/poVMCM1EqmUtj320F6355-dre9g=/fit-in/290x478/smart/media/movies/covers/2014/09/a-feiticeira-6a-temporada_t76848_1.jpg",A Feiticeira 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23620
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia 24HRS!" tvg-logo="https://media.fstatic.com/Xa67pdngk_CDlKTR1EwXz95_N8M=/195x289/smart/media/movies/covers/2015/09/a-grande-familia-6a-temporada_t122895.jpg" group-title="CANAIS 24 HORAS",A Grande Familia 24HRS!
+#EXTINF:-1 group-title="CANAIS 24 HORAS" tvg-logo="https://media.fstatic.com/Xa67pdngk_CDlKTR1EwXz95_N8M=/195x289/smart/media/movies/covers/2015/09/a-grande-familia-6a-temporada_t122895.jpg",A Grande Familia 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23615
-
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin 24HRS!" tvg-logo="" group-title="CANAIS 24 HORAS",Aladdin 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23537
-
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HRS!" tvg-logo="" group-title="CANAIS 24 HORAS",As Meninas Superpoderosas 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23538
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie 01" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png" group-title="CANAIS 24HRS | PLAYER VIP",Barbie 01
-http://pvsrvs.xyz:80/8N7aJE/wil456/4253
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie 02" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png" group-title="CANAIS 24HRS | PLAYER VIP",Barbie 02
-http://pvsrvs.xyz:80/8N7aJE/wil456/4254
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie 03" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png" group-title="CANAIS 24HRS | PLAYER VIP",Barbie 03
-http://pvsrvs.xyz:80/8N7aJE/wil456/4255
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie 04" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png" group-title="CANAIS 24HRS | PLAYER VIP",Barbie 04
-http://pvsrvs.xyz:80/8N7aJE/wil456/4256
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie 05" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png" group-title="CANAIS 24HRS | PLAYER VIP",Barbie 05
-http://pvsrvs.xyz:80/8N7aJE/wil456/4257
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin: 1 Temporada" tvg-logo="https://media.fstatic.com/YE-JalwMnP5Hyc5KLRWWE9lBlDQ=/fit-in/290x478/smart/media/movies/covers/2020/04/b001.jpg" group-title="CANAIS 24HRS | PLAYER VIP",Batman & Robin: 1 Temporada
-http://pvsrvs.xyz:80/8N7aJE/wil456/4193
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin: 2 Temporada" tvg-logo="https://www.thepiratefilmestorrent.com/wp-content/uploads/2019/01/9131079_sa-255x303.jpg" group-title="CANAIS 24HRS | PLAYER VIP",Batman & Robin: 2 Temporada
-http://pvsrvs.xyz:80/8N7aJE/wil456/4194
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin: 3 Temporada" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2020/04/110858_background.jpg" group-title="CANAIS 24HRS | PLAYER VIP",Batman & Robin: 3 Temporada
-http://pvsrvs.xyz:80/8N7aJE/wil456/4195
-
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10 24HRS!" tvg-logo="" group-title="CANAIS 24 HORAS",Ben 10 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23539
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24HRS!" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/702478-287-426/1001092403.jpg?v=636965437751900000" group-title="CANAIS 24 HORAS",Bita e os Animais 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23616
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24HRS!" tvg-logo="" group-title="CANAIS 24 HORAS",Bob Esponja 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23540
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://i.pinimg.com/originals/05/da/53/05da5375628c5419bac1d7c88b33eeb2.png" group-title="CANAIS 24HRS | PLAYER VIP",Bob Zoom
-http://pvsrvs.xyz:80/8N7aJE/wil456/27148
-
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24HRS!" tvg-logo="" group-title="CANAIS 24 HORAS",Breaking Bad 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23541
-
-#EXTINF:-1 tvg-id="" tvg-name="Cao Coragem 24HRS!" tvg-logo="" group-title="CANAIS 24 HORAS",Cao Coragem 24HRS!
-http://pvsrvs.xyz:80/8N7aJE/wil456/23542
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Aladdin 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23537
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",As Meninas Superpoderosas 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23538
-
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png",Barbie 01
+http://pvsrvs.xyz:80/8N7aJE/wil456/4253
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png",Barbie 02
+http://pvsrvs.xyz:80/8N7aJE/wil456/4254
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png",Barbie 03
+http://pvsrvs.xyz:80/8N7aJE/wil456/4255
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png",Barbie 04
+http://pvsrvs.xyz:80/8N7aJE/wil456/4256
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://i.pinimg.com/originals/b7/3c/11/b73c116ebe78456cc6bcf2d1b1487d32.png",Barbie 05
+http://pvsrvs.xyz:80/8N7aJE/wil456/4257
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://media.fstatic.com/YE-JalwMnP5Hyc5KLRWWE9lBlDQ=/fit-in/290x478/smart/media/movies/covers/2020/04/b001.jpg",Batman & Robin: 1 Temporada
+http://pvsrvs.xyz:80/8N7aJE/wil456/4193
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://www.thepiratefilmestorrent.com/wp-content/uploads/2019/01/9131079_sa-255x303.jpg",Batman & Robin: 2 Temporada
+http://pvsrvs.xyz:80/8N7aJE/wil456/4194
+#EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2020/04/110858_background.jpg",Batman & Robin: 3 Temporada
+http://pvsrvs.xyz:80/8N7aJE/wil456/4195
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Ben 10 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23539
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/702478-287-426/1001092403.jpg?v=636965437751900000",Bita e os Animais 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23616
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Bob Esponja 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23540
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://i.pinimg.com/originals/05/da/53/05da5375628c5419bac1d7c88b33eeb2.png",Bob Zoom
 http://pvsrvs.xyz:80/8N7aJE/wil456/27148
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Breaking Bad 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23541
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Cao Coragem 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23542
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://4.bp.blogspot.com/-H5SH92tyyCE/Tn0CY5FJJ0I/AAAAAAAAAB4/X9fboiszfAc/w1200-h630-p-k-no-nu/caverna1.jpg",Caverna do Dragão
 http://pvsrvs.xyz:80/8N7aJE/wil456/4109
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Caverna do Dragao 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23543
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://media.fstatic.com/l5WE23nb7mnisqcmtc6Cmci5li8=/290x478/smart/media/movies/covers/2014/09/chapolin-colorado-1a-temporada_t24995.jpg",Chapolin 01 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24192
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://media.fstatic.com/ECTnUmvXqOcNJluqQn3RX9uZfTs=/290x478/smart/media/movies/covers/2014/09/chapolin-colorado-2a-temporada_t105731.jpg",Chapolin 02 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24193
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://uploaddeimagens.com.br/images/002/750/872/original/images.jpeg-1.jpg",Chapolin 03 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24194
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://media.fstatic.com/jnbmoATQfZxTpDPUHivi9FouhVU=/290x478/smart/media/movies/covers/2014/09/chapolin-colorado-4a-temporada_t105733.jpg",Chapolin 04 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24195
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://media.fstatic.com/w7lAoagUDzCEkT4uCv69EsscCvQ=/290x478/smart/media/movies/covers/2014/09/chapolin-colorado-5a-temporada_t105734.jpg",Chapolin 05 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24196
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://uploaddeimagens.com.br/images/002/750/871/original/images.jpeg.jpg",Chapolin 06 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24197
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://media.fstatic.com/JXKX0AGGdCF6pKqEtJBWyZJLlmU=/290x478/smart/media/movies/covers/2014/09/chapolin-colorado-7a-temporada_t105736.jpg",Chapolin 07 Temporada
 http://pvsrvs.xyz:80/8N7aJE/wil456/24198
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chapolin Colorado 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23544
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://ogimg.infoglobo.com.br/in/22699686-f39-d47/FT1086A/652/xChaves-Multishow.jpg.pagespeed.ic.g67GIjXpik.jpg",Chaves 00
 http://pvsrvs.xyz:80/8N7aJE/wil456/4110
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://correio-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_el_chavo_del_ocho_chaves_foto_televisa_divulgacao_24cb1cdf04.jpg",Chaves 01
 http://pvsrvs.xyz:80/8N7aJE/wil456/23919
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://www.revistabula.com/wp/wp-content/uploads/2019/09/chaves1-610x350.jpg",Chaves 02
 http://pvsrvs.xyz:80/8N7aJE/wil456/23920
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://ogimg.infoglobo.com.br/in/22699686-f39-d47/FT1086A/652/xChaves-Multishow.jpg.pagespeed.ic.g67GIjXpik.jpg",Chaves 03
 http://pvsrvs.xyz:80/8N7aJE/wil456/23921
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://badalo.com.br/wp-content/uploads/2018/01/1_9.jpg",Chaves 04
 http://pvsrvs.xyz:80/8N7aJE/wil456/23922
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://uploaddeimagens.com.br/images/002/742/453/full/2.jpg",Chaves 05
 http://pvsrvs.xyz:80/8N7aJE/wil456/23923
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://assets0.minhaserie.com.br/uploads/editor_pictures/000/023/409/content_pic.jpg",Chaves 06
 http://pvsrvs.xyz:80/8N7aJE/wil456/23924
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://uploaddeimagens.com.br/images/002/742/449/full/1.jpg",Chaves 07
 http://pvsrvs.xyz:80/8N7aJE/wil456/23925
-
 #EXTINF:-1 group-title="CANAIS 24HRS | PLAYER VIP" tvg-logo="https://data.whicdn.com/images/19807875/original.jpg",Chaves 08 - ESPECIAL
 http://pvsrvs.xyz:80/8N7aJE/wil456/23926
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23545
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Chaves Desenho 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23546
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS" tvg-logo="https://media.fstatic.com/W-VU5Oci_BAWLJhdH_ohSbGUGYs=/fit-in/290x478/smart/media/movies/covers/2017/06/49c868ff3198c8eefbb5c71d8bc60e56.jpg",Corrida Maluca 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23621
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Denis o Pimentinha 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23547
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Desenhos Biblicos 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23548
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Desenhos Disney 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23549
-
 #EXTINF:-1 group-title="CANAIS 24 HORAS",Digimon 24HRS!
 http://pvsrvs.xyz:80/8N7aJE/wil456/23550
-
-
