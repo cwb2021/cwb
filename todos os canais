@@ -206,8 +206,7 @@ http://srvtv.online:2082/Altair567/356738473/4504
 http://srvtv.online:2082/Altair567/356738473/4513
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]FERACANAIS[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/5247/5247/19428
-
+plugin://plugin.video.BlurayPlay/?url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]LISTA SEM TRAVAMENTOS: 83 98190-3348[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/5247/5247/19428
 
 INFANTIL
 
