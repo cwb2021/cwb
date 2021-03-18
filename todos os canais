@@ -85,23 +85,23 @@ CANAIS ABERTOS
 
 BAND
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3816
 
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3809
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3821
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/32537
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/50876
 
 
@@ -111,24 +111,24 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 SBT
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32487
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/238
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6766
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3814
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3843
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/55
 
 
@@ -136,24 +136,24 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 RECORD
 
-#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3825
 
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/42908
 
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/31
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3832
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/6835
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pfsv.io:80/23136533/3672/57
 
 
@@ -161,21 +161,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=ht
 
 CULTURA
 
-#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32328
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/128
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3853
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/3854
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
 
 
@@ -184,25 +184,25 @@ GLOBO
 
 
 
-#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO SP HD
+#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/32895
 
-#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO SP HD ALT
+#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://n.srv1.xyz:8880/rogerrocha/estherlorena/34018
 
 
 
-#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO RJ HD
+#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/7045
 
 
-#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO CURITIBA HD
+#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO CURITIBA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://rec2.distv.net:80/daniele/12345/14
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4504
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://srvtv.online:2082/Altair567/356738473/4513
 
 
