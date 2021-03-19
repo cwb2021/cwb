@@ -8,7 +8,7 @@ BIG BROTHER 2021
 
 #EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srvtv.online:2082/Altair567/356738473/21867
+plugin://plugin.video.elementum/play?url=http://srvtv.online:2082/Altair567/356738473/21867
 
 
 
