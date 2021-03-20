@@ -8,26 +8,26 @@ BIG BROTHER 2021
 
 #EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 1
 
-plugin://plugin.video.elementum/play?url=http://srvtv.online:2082/Altair567/356738473/21867
+http://srvtv.online:2082/Altair567/356738473/21867
 
 
 
 #EXTINF:-1 tvg-id="BBB 2" tvg-name="BBB 2" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 2
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srvtv.online:2082/Altair567/356738473/21866
+http://srvtv.online:2082/Altair567/356738473/21866
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 3" tvg-name="BBB 3" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 3
 
-plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://srvtv.online:2082/Altair567/356738473/21866
+http://srvtv.online:2082/Altair567/356738473/21866
 
 
 
 #EXTINF:-1 tvg-id="BBB 4" tvg-name="BBB 4" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 4
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=FERA CANAIS;url=http://pvsrvs.xyz:80/8N7aJE/wil456/27864
+http://pvsrvs.xyz:80/8N7aJE/wil456/27864
 
 
 
@@ -205,8 +205,8 @@ http://srvtv.online:2082/Altair567/356738473/4504
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
 http://srvtv.online:2082/Altair567/356738473/4513
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-plugin://plugin.video.BlurayPlay/?url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]LISTA SEM TRAVAMENTOS: 83 98190-3348[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/5247/5247/19428
+
+
 
 INFANTIL
 
