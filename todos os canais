@@ -41,7 +41,7 @@ http://pvsrvs.xyz:80/8N7aJE/wil456/27801
 
 #EXTINF:-1 tvg-id="BBB 6" tvg-name="BBB 6" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 6
 
-http://rec2.distv.net:80/diego1/diego1/254
+http://pvsrvs.xyz:80/8N7aJE/wil456/27794
 
 
 
@@ -59,12 +59,12 @@ http://pfsv.io:80/23136533/3672/60676
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Acompanhe a Casa 2
 http://pfsv.io:80/23136533/3672/60677
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Acompanhe a Casa Extra
-http://pfsv.io:80/23136533/3672/60679
+http://dns.velox4k.tech:2082/6893910914/6615263741/22049
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Confessionario
 http://pfsv.io:80/23136533/3672/60680
 
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Cozinha Vip Xepa
-http://pfsv.io:80/23136533/3672/60681
+http://dns.velox4k.tech:2082/6893910914/6615263741/22054
 
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Mosaico
 http://pfsv.io:80/23136533/3672/60682
@@ -73,7 +73,7 @@ http://pfsv.io:80/23136533/3672/60682
 http://pfsv.io:80/23136533/3672/60683
 
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Quarto Colorido
-http://pfsv.io:80/23136533/3672/60684
+http://dns.velox4k.tech:2082/6893910914/6615263741/22052
 
 #EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Sala de Estar
 http://pfsv.io:80/23136533/3672/60687
@@ -119,11 +119,10 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32487
 http://rec2.distv.net:80/daniele/12345/238
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://srvtv.online:2082/Altair567/356738473/6766
-
+http://rec2.distv.net:80/daniele/12345/238
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://srvtv.online:2082/Altair567/356738473/3814
+http://pfsv.io:80/23136533/3672/70
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 http://srvtv.online:2082/Altair567/356738473/3843
@@ -218,22 +217,22 @@ http://rec2.distv.net:80/daniele/12345/117
 
 
 #EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV ALT
-http://rec2.distv.net:80/dinho/dinho/117
+http://pvsrvs.xyz:80/8N7aJE/wil456/228
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://diretogo.com:80/a694360/6125381/10027048
+http://pvsrvs.xyz:80/8N7aJE/wil456/3055
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://diretogo.com:80/a694360/6125381/4885
+http://rec2.distv.net:80/diego1/diego1/117
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://diretogo.com:80/a694360/6125381/4789
+http://pvsrvs.xyz:80/8N7aJE/wil456/3056
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://diretogo.com:80/a694360/6125381/10040729
+http://pvsrvs.xyz:80/8N7aJE/wil456/3056
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://diretogo.com:80/a694360/6125381/10040730
+http://srvtv.online:2082/Altair567/356738473/6985
 
 
 
@@ -246,7 +245,7 @@ http://diretogo.com:80/a694360/6125381/10040730
 BOOMERANG
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://rec2.distv.net:80/pedro1/pedro1/121
+http://dns.velox4k.tech:2082/6893910914/6615263741/6997
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
@@ -254,19 +253,19 @@ http://rec2.distv.net:80/daniele/12345/121
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://diretogo.com:80/a694360/6125381/4130
+http://pvsrvs.xyz:80/8N7aJE/wil456/3057
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://diretogo.com:80/a694360/6125381/5827
+http://pvsrvs.xyz:80/8N7aJE/wil456/3057
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://diretogo.com:80/a694360/6125381/60
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33110
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://diretogo.com:80/a694360/6125381/10040735
+http://dns.velox4k.tech:2082/6893910914/6615263741/4218
 
 
 
@@ -279,10 +278,10 @@ http://srvtv.online:2082/Altair567/356738473/6636
 http://rec2.distv.net:80/daniele/12345/124
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://diretogo.com:80/a694360/6125381/5930
+http://pvsrvs.xyz:80/8N7aJE/wil456/243
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://diretogo.com:80/a694360/6125381/63
+http://pvsrvs.xyz:80/8N7aJE/wil456/3060
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
 http://srvtv.online:2082/Altair567/356738473/4226
@@ -305,13 +304,13 @@ http://rec2.distv.net:80/daniele/12345/133
 http://rec2.distv.net:80/dinho/dinho/133
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://diretogo.com:80/a694360/6125381/4826
+http://rec2.distv.net:80/diego1/diego1/133
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://diretogo.com:80/a694360/6125381/46
+http://pvsrvs.xyz:80/8N7aJE/wil456/231
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://diretogo.com:80/a694360/6125381/10047334
+http://pvsrvs.xyz:80/8N7aJE/wil456/244
 
 
 
@@ -327,13 +326,13 @@ http://rec2.distv.net:80/daniele/12345/138
 http://rec2.distv.net:80/dinho/dinho/138
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://diretogo.com:80/a694360/6125381/5924
+http://rec2.distv.net:80/diego1/diego1/138
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
 http://diretogo.com:80/a694360/6125381/2852
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://diretogo.com:80/a694360/6125381/58
+http://pvsrvs.xyz:80/8N7aJE/wil456/246
 
 
 DISNEY JR
@@ -366,13 +365,13 @@ http://rec2.distv.net:80/pedro1/pedro1/140
 http://rec2.distv.net:80/daniele/12345/140
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://diretogo.com:80/a694360/6125381/10027049
+http://srvtv.online:2082/Altair567/356738473/6989
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://diretogo.com:80/a694360/6125381/2850
+http://srvtv.online:2082/Altair567/356738473/6990
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://diretogo.com:80/a694360/6125381/5949
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33572
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
 http://srvtv.online:2082/Altair567/356738473/6990
@@ -427,14 +426,15 @@ http://rec2.distv.net:80/pedro1/pedro1/154
 LOADING
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://diretogo.com:80/a694360/6125381/10052808
+http://srvtv.online:2082/Altair567/356738473/21871
 
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://diretogo.com:80/a694360/6125381/10052807
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358862.m3u8
+
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://diretogo.com:80/a694360/6125381/10052806
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460630.m3u8
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
 http://srvtv.online:2082/Altair567/356738473/21871
@@ -457,28 +457,28 @@ http://rec2.distv.net:80/daniele/12345/176
 http://rec2.distv.net:80/dinho/dinho/176
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://diretogo.com:80/a694360/6125381/5911
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460681.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://diretogo.com:80/a694360/6125381/5045
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359122.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://diretogo.com:80/a694360/6125381/52
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359059.m3u8
 
 
 NICKELODEON
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON
-http://diretogo.com:80/a694360/6125381/10047255
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460685.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON ALT
-http://diretogo.com:80/a694360/6125381/10047254
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460687.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON ALT
 http://diretogo.com:80/a694360/6125381/10039588
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON ALT
-http://diretogo.com:80/a694360/6125381/10039589
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359022.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON
 http://srvtv.online:2082/Altair567/356738473/4055
