@@ -6,76 +6,76 @@ BIG BROTHER 2021
 
 
 
-#EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 1
+#EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 1
 
 http://srvtv.online:2082/Altair567/356738473/21867
 
 
 
-#EXTINF:-1 tvg-id="BBB 2" tvg-name="BBB 2" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 2
+#EXTINF:-1 tvg-id="BBB 2" tvg-name="BBB 2" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 2
 
 http://srvtv.online:2082/Altair567/356738473/21866
 
 
 
 
-#EXTINF:-1 tvg-id="BBB 3" tvg-name="BBB 3" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 3
+#EXTINF:-1 tvg-id="BBB 3" tvg-name="BBB 3" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 3
 
 http://srvtv.online:2082/Altair567/356738473/21866
 
 
 
-#EXTINF:-1 tvg-id="BBB 4" tvg-name="BBB 4" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 4
+#EXTINF:-1 tvg-id="BBB 4" tvg-name="BBB 4" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 4
 
 http://pvsrvs.xyz:80/8N7aJE/wil456/27864
 
 
 
 
-#EXTINF:-1 tvg-id="BBB 5" tvg-name="BBB 5" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 5
+#EXTINF:-1 tvg-id="BBB 5" tvg-name="BBB 5" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 5
 
 http://pvsrvs.xyz:80/8N7aJE/wil456/27801
 
 
 
 
-#EXTINF:-1 tvg-id="BBB 6" tvg-name="BBB 6" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 6
+#EXTINF:-1 tvg-id="BBB 6" tvg-name="BBB 6" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 6
 
-http://rec2.distv.net:80/diego1/diego1/254
-
-
+http://pvsrvs.xyz:80/8N7aJE/wil456/27794
 
 
-#EXTINF:-1 tvg-id="BBB 7" tvg-name="BBB 7" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 7
+
+
+#EXTINF:-1 tvg-id="BBB 7" tvg-name="BBB 7" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 7
 
 http://srvtv.online:2082/Altair567/356738473/22048
 
-#EXTINF:-1 tvg-id="BBB 8" tvg-name="BBB 8" tvg-logo="https://ibb.co/GWxkrQY" group-title="ABERTOS",BBB 8
+#EXTINF:-1 tvg-id="BBB 8" tvg-name="BBB 8" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 8
 
 http://srvtv.online:2082/Altair567/356738473/22052
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Acompanhe a Casa
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Acompanhe a Casa
 http://pfsv.io:80/23136533/3672/60676
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Acompanhe a Casa 2
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Acompanhe a Casa 2
 http://pfsv.io:80/23136533/3672/60677
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Acompanhe a Casa Extra
-http://pfsv.io:80/23136533/3672/60679
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Confessionario
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Acompanhe a Casa Extra
+http://dns.velox4k.tech:2082/6893910914/6615263741/22049
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Confessionario
 http://pfsv.io:80/23136533/3672/60680
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Cozinha Vip Xepa
-http://pfsv.io:80/23136533/3672/60681
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Cozinha Vip Xepa
+http://dns.velox4k.tech:2082/6893910914/6615263741/22054
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Mosaico
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Mosaico
 http://pfsv.io:80/23136533/3672/60682
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Piscina
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Piscina
 http://pfsv.io:80/23136533/3672/60683
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Quarto Colorido
-http://pfsv.io:80/23136533/3672/60684
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Quarto Colorido
+http://dns.velox4k.tech:2082/6893910914/6615263741/22052
 
-#EXTINF:-1 group-title="BBB" tvg-logo="https://ibb.co/GWxkrQY",BBB Sala de Estar
+#EXTINF:-1 group-title="BBB" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png",BBB Sala de Estar
 http://pfsv.io:80/23136533/3672/60687
 
 
@@ -85,24 +85,26 @@ CANAIS ABERTOS
 
 BAND
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND SP
-http://srvtv.online:2082/Altair567/356738473/3816
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460150.m3u8
 
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND SP
-http://srvtv.online:2082/Altair567/356738473/3809
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND 
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359478.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND 
-http://srvtv.online:2082/Altair567/356738473/3821
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460155.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460156.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
 http://pfsv.io:80/23136533/3672/32537
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/ZMC8jgt" group-title="ABERTOS",BAND
-http://pfsv.io:80/23136533/3672/50876
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460151.m3u8
 
 
 
@@ -111,49 +113,51 @@ http://pfsv.io:80/23136533/3672/50876
 
 SBT
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32487
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460789.m3u8
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
-http://rec2.distv.net:80/daniele/12345/238
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
-http://srvtv.online:2082/Altair567/356738473/6766
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460789.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460792.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460794.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358974.m3u8
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
-http://srvtv.online:2082/Altair567/356738473/3814
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
-http://srvtv.online:2082/Altair567/356738473/3843
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/sHqSFMM" group-title="ABERTOS",SBT
-http://pfsv.io:80/23136533/3672/55
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359068.m3u8
 
 
 
 
 RECORD
 
-#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD
-http://srvtv.online:2082/Altair567/356738473/3825
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460755.m3u8
 
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/42908
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460755.m3u8
 
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
-http://rec2.distv.net:80/daniele/12345/31
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460756.m3u8
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
-http://srvtv.online:2082/Altair567/356738473/3832
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
-http://srvtv.online:2082/Altair567/356738473/6835
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460760.m3u8
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/Y2y1PPh" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359508.m3u8
+
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 http://pfsv.io:80/23136533/3672/57
 
 
@@ -161,21 +165,23 @@ http://pfsv.io:80/23136533/3672/57
 
 CULTURA
 
-#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA 
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32328
+#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460923.m3u8
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA 
-http://rec2.distv.net:80/daniele/12345/128
+
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460923.m3u8
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA
-http://srvtv.online:2082/Altair567/356738473/3853
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA
-http://srvtv.online:2082/Altair567/356738473/3854
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359001.m3u8
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/S3tkyHh" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460925.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
 
 
@@ -184,23 +190,22 @@ GLOBO
 
 
 
-#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO SP HD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32895
+#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359486.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO SP HD ALT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/34018
-
-
-
-#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO RJ HD
-http://srvtv.online:2082/Altair567/356738473/7045
+#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359532.m3u8
 
 
-#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO CURITIBA HD
-http://rec2.distv.net:80/daniele/12345/14
+#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359517.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO
-http://srvtv.online:2082/Altair567/356738473/4504
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://ibb.co/SVKpwds" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO CURITIBA HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460435.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359525.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
 http://srvtv.online:2082/Altair567/356738473/4513
