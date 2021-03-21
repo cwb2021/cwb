@@ -579,10 +579,10 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
-http://rec2.distv.net:80/daniele/12345/114
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://rec2.distv.net:80/dinho/dinho/130
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359382.m3u8
@@ -597,104 +597,114 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460267.m3u8
 NAT GEO WILD
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nwqj9Yq/NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://rec2.distv.net:80/pedro1/pedro1/174
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460659.m3u8
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nwqj9Yq/NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://rec2.distv.net:80/daniele/12345/174
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460667.m3u8
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nwqj9Yq/NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://rec2.distv.net:80/dinho/dinho/174
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460668.m3u8
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nwqj9Yq/NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://diretogo.com:80/a694360/6125381/6541
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359131.m3u8
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nwqj9Yq/NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://diretogo.com:80/a694360/6125381/106
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460662.m3u8
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nwqj9Yq/NAT-GEO-WILD.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://diretogo.com:80/a694360/6125381/105
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358998.m3u8
+
 
 
 NATIONAL GEOGRAPHIC
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://rec2.distv.net:80/daniele/12345/172
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC FHD
+
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358808.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT" tvg-name="NATIONAL GEOGRAPHIC ALT" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT
-http://diretogo.com:80/a694360/6125381/9632
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359131.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT 2" tvg-name="NATIONAL GEOGRAPHIC ALT 2" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT 2
-http://rec2.distv.net:80/pedro1/pedro1/172
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460663.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://diretogo.com:80/a694360/6125381/103
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460662.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://diretogo.com:80/a694360/6125381/102
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460659.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://diretogo.com:80/a694360/6125381/10047260
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460659.m3u8
 
 
 DISCOVERY HOME AND HEALTH
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://rec2.distv.net:80/pedro1/pedro1/131
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460270.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460271.m3u8
+
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://rec2.distv.net:80/daniele/12345/131
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358874.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://rec2.distv.net:80/dinho/dinho/131
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://pfsv.io:80/23136533/3672/168
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460274.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
 http://pfsv.io:80/23136533/3672/183
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://pfsv.io:80/23136533/3672/198
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358941.m3u8
+
 
 
 
 DISCOVERY SCIENCE
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://rec2.distv.net:80/dinho/dinho/134
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460282.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://diretogo.com:80/a694360/6125381/9608
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358863.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
 http://rec2.distv.net:80/daniele/12345/134
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://diretogo.com:80/a694360/6125381/5476
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460284.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://diretogo.com:80/a694360/6125381/120
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460285.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://diretogo.com:80/a694360/6125381/10047333
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359105.m3u8
+
 
 
 DISCOVERY TURBO
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://rec2.distv.net:80/pedro1/pedro1/136
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460292.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO ALT" tvg-name="DISCOVERY TURBO ALT" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO ALT
-http://rec2.distv.net:80/daniele/12345/136
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://diretogo.com:80/a694360/6125381/10039482
+#EXTINF:-1 tvg-id="DISCOVERY TURBO ALT" tvg-name="DISCOVERY TURBO ALT" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO ALT FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460293.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://diretogo.com:80/a694360/6125381/10039483
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460296.m3u8
+
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://diretogo.com:80/a694360/6125381/10040749
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359031.m3u8
+
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460297.m3u8
+
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
 http://pfsv.io:80/23136533/3672/30257
@@ -703,36 +713,35 @@ http://pfsv.io:80/23136533/3672/30257
 
 HISTORY CHANNEL
 
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://rec2.distv.net:80/daniele/12345/165
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358803.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL ALT
-http://diretogo.com:80/a694360/6125381/5762
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359130.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL ALT
 http://rec2.distv.net:80/pedro1/pedro1/165
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://diretogo.com:80/a694360/6125381/112
+http://srvtv.online:2082/Altair567/356738473/3962
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359130.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://diretogo.com:80/a694360/6125381/111
-
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://diretogo.com:80/a694360/6125381/10047278
+http://dns.velox4k.tech:2082/6893910914/6615263741/3964
 
 
 
 HISTORY 2
 
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2
-http://rec2.distv.net:80/daniele/12345/166
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2 FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358803.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2 ALT" tvg-name="HISTORY 2 ALT" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2 ALT
-http://diretogo.com:80/a694360/6125381/10047298
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359130.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2
-http://rec2.distv.net:80/pedro1/pedro1/166
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358977.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2
 http://srvtv.online:2082/Altair567/356738473/6742
@@ -754,17 +763,20 @@ http://rec2.distv.net:80/dinho/dinho/132
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY ALT" tvg-name="INVESTIGAÇÃO DISCOVERY ALT" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY ALT
 http://rec2.distv.net:80/dinho/dinho/132
 
-#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
-http://diretogo.com:80/a694360/6125381/17295
+#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460615.m3u8
+
 
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
-http://diretogo.com:80/a694360/6125381/109
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460617.m3u8
+
 
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
-http://diretogo.com:80/a694360/6125381/108
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460619.m3u8
+
 
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
-http://diretogo.com:80/a694360/6125381/10047274
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460620.m3u8
 
 
 
