@@ -86,23 +86,25 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
-http://srvtv.online:2082/Altair567/356738473/3816
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460150.m3u8
+
 
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
-http://srvtv.online:2082/Altair567/356738473/3809
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359478.m3u8
+
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460155.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
-http://srvtv.online:2082/Altair567/356738473/3821
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460156.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
 http://pfsv.io:80/23136533/3672/32537
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
-http://pfsv.io:80/23136533/3672/50876
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460151.m3u8
 
 
 
@@ -112,23 +114,25 @@ http://pfsv.io:80/23136533/3672/50876
 SBT
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32487
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460789.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460789.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460792.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460794.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358974.m3u8
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://rec2.distv.net:80/daniele/12345/238
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://rec2.distv.net:80/daniele/12345/238
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://pfsv.io:80/23136533/3672/70
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://srvtv.online:2082/Altair567/356738473/3843
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://pfsv.io:80/23136533/3672/55
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359068.m3u8
 
 
 
@@ -136,21 +140,22 @@ http://pfsv.io:80/23136533/3672/55
 RECORD
 
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD
-http://srvtv.online:2082/Altair567/356738473/3825
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460755.m3u8
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/42908
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460755.m3u8
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://rec2.distv.net:80/daniele/12345/31
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460756.m3u8
+
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://srvtv.online:2082/Altair567/356738473/3832
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460760.m3u8
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://srvtv.online:2082/Altair567/356738473/6835
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359508.m3u8
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 http://pfsv.io:80/23136533/3672/57
@@ -161,18 +166,20 @@ http://pfsv.io:80/23136533/3672/57
 CULTURA
 
 #EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32328
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460923.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://rec2.distv.net:80/daniele/12345/128
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460923.m3u8
 
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
-http://srvtv.online:2082/Altair567/356738473/3853
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
-http://srvtv.online:2082/Altair567/356738473/3854
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359001.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460925.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
@@ -184,22 +191,21 @@ GLOBO
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32895
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359486.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/34018
-
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359532.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
-http://srvtv.online:2082/Altair567/356738473/7045
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359517.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO CURITIBA HD
-http://rec2.distv.net:80/daniele/12345/14
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460435.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-http://srvtv.online:2082/Altair567/356738473/4504
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359525.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
 http://srvtv.online:2082/Altair567/356738473/4513
@@ -213,23 +219,24 @@ INFANTIL
 BABY TV
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://rec2.distv.net:80/daniele/12345/117
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358836.m3u8
 
 
 #EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV ALT
-http://pvsrvs.xyz:80/8N7aJE/wil456/228
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460149.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://pvsrvs.xyz:80/8N7aJE/wil456/3055
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359151.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://rec2.distv.net:80/diego1/diego1/117
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460151.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://pvsrvs.xyz:80/8N7aJE/wil456/3056
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359478.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://pvsrvs.xyz:80/8N7aJE/wil456/3056
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460155.m3u8
+
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
 http://srvtv.online:2082/Altair567/356738473/6985
@@ -245,46 +252,46 @@ http://srvtv.online:2082/Altair567/356738473/6985
 BOOMERANG
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://dns.velox4k.tech:2082/6893910914/6615263741/6997
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460179.m3u8
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://rec2.distv.net:80/daniele/12345/121
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460182.m3u8
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://pvsrvs.xyz:80/8N7aJE/wil456/3057
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460183.m3u8
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://pvsrvs.xyz:80/8N7aJE/wil456/3057
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359044.m3u8
 
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33110
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://dns.velox4k.tech:2082/6893910914/6615263741/4218
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358954.m3u8
 
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460184.m3u8
 
 
 CARTOON NETWORk
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://srvtv.online:2082/Altair567/356738473/6636
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460204.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://rec2.distv.net:80/daniele/12345/124
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460205.m3u8
+
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://pvsrvs.xyz:80/8N7aJE/wil456/243
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460208.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://pvsrvs.xyz:80/8N7aJE/wil456/3060
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359099.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://srvtv.online:2082/Altair567/356738473/4226
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358955.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
 http://srvtv.online:2082/Altair567/356738473/7000
@@ -295,19 +302,19 @@ http://srvtv.online:2082/Altair567/356738473/7000
 DISCOVERY KIDS
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://rec2.distv.net:80/pedro1/pedro1/133
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460276.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://rec2.distv.net:80/daniele/12345/133
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460276.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://rec2.distv.net:80/dinho/dinho/133
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460279.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://rec2.distv.net:80/diego1/diego1/133
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359045.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://pvsrvs.xyz:80/8N7aJE/wil456/231
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460281.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
 http://pvsrvs.xyz:80/8N7aJE/wil456/244
@@ -317,19 +324,20 @@ http://pvsrvs.xyz:80/8N7aJE/wil456/244
 DISNEY CHANNEL
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://rec2.distv.net:80/pedro1/pedro1/138
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460303.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://rec2.distv.net:80/daniele/12345/138
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://rec2.distv.net:80/dinho/dinho/138
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460267.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://rec2.distv.net:80/diego1/diego1/138
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460268.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://diretogo.com:80/a694360/6125381/2852
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358940.m3u8
+
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
 http://pvsrvs.xyz:80/8N7aJE/wil456/246
@@ -338,7 +346,7 @@ http://pvsrvs.xyz:80/8N7aJE/wil456/246
 DISNEY JR
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
-http://rec2.distv.net:80/pedro1/pedro1/139
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358832.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
 http://rec2.distv.net:80/daniele/12345/139
@@ -359,19 +367,20 @@ http://srvtv.online:2082/Altair567/356738473/6988
 DISNEY XD
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://rec2.distv.net:80/pedro1/pedro1/140
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460315.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://rec2.distv.net:80/daniele/12345/140
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460315.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://srvtv.online:2082/Altair567/356738473/6989
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460318.m3u8
+
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://srvtv.online:2082/Altair567/356738473/6990
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460319.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33572
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359003.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
 http://srvtv.online:2082/Altair567/356738473/6990
@@ -379,7 +388,7 @@ http://srvtv.online:2082/Altair567/356738473/6990
 GLOOB
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/CHQZRTn/GLOOB.png" group-title="INFANTIL",GLOOB
-http://rec2.distv.net:80/pedro1/pedro1/154
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460535.m3u8
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/CHQZRTn/GLOOB.png" group-title="INFANTIL",GLOOB
 http://rec2.distv.net:80/daniele/12345/154
@@ -401,19 +410,19 @@ http://diretogo.com:80/a694360/6125381/44
 GLOOBINHO
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/NpCD2vG/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://rec2.distv.net:80/pedro1/pedro1/154
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460540.m3u8
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/NpCD2vG/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://rec2.distv.net:80/pedro1/pedro1/154
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460318.m3u8
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/NpCD2vG/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://rec2.distv.net:80/pedro1/pedro1/154
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460319.m3u8
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/NpCD2vG/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://rec2.distv.net:80/pedro1/pedro1/154
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359003.m3u8
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/NpCD2vG/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://rec2.distv.net:80/pedro1/pedro1/154
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460320.m3u8
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/NpCD2vG/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
 http://rec2.distv.net:80/pedro1/pedro1/154
@@ -426,18 +435,18 @@ http://rec2.distv.net:80/pedro1/pedro1/154
 LOADING
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://srvtv.online:2082/Altair567/356738473/21871
-
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358862.m3u8
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358862.m3u8
 
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460630.m3u8
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460629.m3u8
+
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://srvtv.online:2082/Altair567/356738473/21871
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460630.m3u8
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
 http://srvtv.online:2082/Altair567/356738473/21870
@@ -448,13 +457,13 @@ http://srvtv.online:2082/Altair567/356738473/21870
 NICK JR
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://rec2.distv.net:80/pedro1/pedro1/176
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460681.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://rec2.distv.net:80/daniele/12345/176
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359122.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://rec2.distv.net:80/dinho/dinho/176
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460683.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460681.m3u8
@@ -475,13 +484,14 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460685.m3u8
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460687.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON ALT
-http://diretogo.com:80/a694360/6125381/10039588
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460687.m3u8
+
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON ALT
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359022.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON
-http://srvtv.online:2082/Altair567/356738473/4055
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359022.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON
 http://srvtv.online:2082/Altair567/356738473/4053
@@ -491,22 +501,24 @@ http://srvtv.online:2082/Altair567/356738473/4053
 TOONCAST
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST
-http://rec2.distv.net:80/daniele/12345/203
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460913.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST
-http://rec2.distv.net:80/dinho/dinho/203
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359119.m3u8
+
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST
-http://rec2.distv.net:80/pedro1/pedro1/203
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358973.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST
-http://diretogo.com:80/a694360/6125381/10027050
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460914.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST
-http://diretogo.com:80/a694360/6125381/10027051
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460912.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST
-http://diretogo.com:80/a694360/6125381/48
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="ABERTOS",TOONCAST FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460911.m3u8
+
 
 
 RATIMBUM
@@ -539,22 +551,23 @@ DOCUMENTÁRIOS
 ANIMAL PLANET
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://rec2.distv.net:80/dinho/dinho/114
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460129.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT
-http://rec2.distv.net:80/daniele/12345/114
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460131.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT 2
-http://rec2.distv.net:80/pedro1/pedro1/114
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359110.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://diretogo.com:80/a694360/6125381/5902
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358916.m3u8
+
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://diretogo.com:80/a694360/6125381/116
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460130.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://diretogo.com:80/a694360/6125381/117
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/461349.m3u8
 
 
 
@@ -562,7 +575,8 @@ http://diretogo.com:80/a694360/6125381/117
 DISCOVERY CHANNEL
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://rec2.distv.net:80/pedro1/pedro1/130
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
+
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
 http://rec2.distv.net:80/daniele/12345/114
@@ -571,13 +585,14 @@ http://rec2.distv.net:80/daniele/12345/114
 http://rec2.distv.net:80/dinho/dinho/130
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://diretogo.com:80/a694360/6125381/5536
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359382.m3u8
+
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://diretogo.com:80/a694360/6125381/133
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460266.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://diretogo.com:80/a694360/6125381/132
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460267.m3u8
 
 NAT GEO WILD
 
