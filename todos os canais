@@ -27,21 +27,21 @@ http://srvtv.online:2082/Altair567/356738473/21866
 
 #EXTINF:-1 tvg-id="BBB 4" tvg-name="BBB 4" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 4
 
-http://pvsrvs.xyz:80/8N7aJE/wil456/27864
+http://dnsl.me:80/fernando2021/10203040/49615
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 5" tvg-name="BBB 5" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 5
 
-http://pvsrvs.xyz:80/8N7aJE/wil456/27801
+http://dnsl.me:80/fernando2021/10203040/48371
 
 
 
 
 #EXTINF:-1 tvg-id="BBB 6" tvg-name="BBB 6" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 6
 
-http://pvsrvs.xyz:80/8N7aJE/wil456/27794
+http://dnsl.me:80/fernando2021/10203040/46208
 
 
 
@@ -1611,13 +1611,13 @@ http://rec2.distv.net:80/pedro1/pedro1/202
 http://diretogo.com:80/a694360/6125381/9639
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
-http://diretogo.com:80/a694360/6125381/260
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460905.m3u8
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
-http://diretogo.com:80/a694360/6125381/17098
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460903.m3u8
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
-http://diretogo.com:80/a694360/6125381/259
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES SD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358979.m3u8
 
 
 
@@ -1632,14 +1632,14 @@ http://rec2.distv.net:80/pedro1/pedro1/191
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
 http://rec2.distv.net:80/dinho/dinho/205
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://diretogo.com:80/a694360/6125381/9642
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359378.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://diretogo.com:80/a694360/6125381/17097
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359147.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://diretogo.com:80/a694360/6125381/209
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL SD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359037.m3u8
 
 WARNER CHANNEL
 
@@ -1649,17 +1649,18 @@ http://rec2.distv.net:80/dinho/dinho/208
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
 http://rec2.distv.net:80/pedro1/pedro1/208
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/5848
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460972.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460974.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL SD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359032.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/10047202
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460976.m3u8
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/241
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/242
 
 
 
@@ -1676,11 +1677,11 @@ http://pfsv.io:80/23136533/3672/133
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
 http://rec2.distv.net:80/dinho/dinho/243
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
-http://diretogo.com:80/a694360/6125381/9646
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460977.m3u8
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
-http://diretogo.com:80/a694360/6125381/136
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359020.m3u8
 
 
 VARIEDADES
@@ -1695,21 +1696,23 @@ http://rec2.distv.net:80/pedro1/pedro1/115
 http://rec2.distv.net:80/dinho/dinho/115
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1
-http://diretogo.com:80/a694360/6125381/9647
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460136.m3u8
 
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1
-http://diretogo.com:80/a694360/6125381/5474
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1 FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460137.m3u8
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1
 http://diretogo.com:80/a694360/6125381/10040727
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1
-http://srvtv.online:2082/Altair567/356738473/3993
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460139.m3u8
+
 
 BIS
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
-http://diretogo.com:80/a694360/6125381/10039449
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460172.m3u8
 
 #EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS ALT
 http://rec2.distv.net:80/pedro1/pedro1/120
@@ -1717,35 +1720,37 @@ http://rec2.distv.net:80/pedro1/pedro1/120
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
 http://rec2.distv.net:80/dinho/dinho/120
 
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
-http://diretogo.com:80/a694360/6125381/4955
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460173.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
-http://diretogo.com:80/a694360/6125381/4955
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460175.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358911.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
-http://diretogo.com:80/a694360/6125381/10047347
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
-http://diretogo.com:80/a694360/6125381/10039448
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460176.m3u8
 
 
 CANAL DO BOI
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
-http://diretogo.com:80/a694360/6125381/10048418
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460191.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI ALT" tvg-name="CANAL DO BOI ALT" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI ALT
 http://lista.lorddark.club:80/5247/5247/491
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
-http://diretogo.com:80/a694360/6125381/10667
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358894.m3u8
+
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
-http://diretogo.com:80/a694360/6125381/10039455
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460191.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
-http://diretogo.com:80/a694360/6125381/10039454
+http://dns.velox4k.tech:2082/6893910914/6615263741/6657
+
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
 http://srvtv.online:2082/Altair567/356738473/3855
 
@@ -1753,7 +1758,7 @@ http://srvtv.online:2082/Altair567/356738473/3855
 CANAL RURAL
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/n7fWvmC/canal-rural.png" group-title="VARIEDADES",CANAL RURAL
-http://diretogo.com:80/a694360/6125381/10666
+http://srvtv.online:2082/Altair567/356738473/6827
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/n7fWvmC/canal-rural.png" group-title="VARIEDADES",CANAL RURAL
 http://srvtv.online:2082/Altair567/356738473/6827
@@ -1761,6 +1766,8 @@ http://srvtv.online:2082/Altair567/356738473/6827
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/n7fWvmC/canal-rural.png" group-title="VARIEDADES",CANAL RURAL
 http://pfsv.io:80/23136533/3672/81
 
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ibb.co/n7fWvmC/canal-rural.png" group-title="VARIEDADES",CANAL RURAL
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358976.m3u8
 
 
 CANCAO NOVA
@@ -1777,179 +1784,185 @@ http://pfsv.io:80/23136533/3672/33379
 http://pfsv.io:80/23136533/3672/49112
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/J201rDY/CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
-http://pfsv.io:80/23136533/3672/552
+http://rec2.distv.net:80/daniele/12345/65
 
 
 COMEDY CENTRAL
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://rec2.distv.net:80/dinho/dinho/127
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359380.m3u8
 
-#EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL ALT
-http://rec2.distv.net:80/pedro1/pedro1/127
+#EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460227.m3u8
 
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://diretogo.com:80/a694360/6125381/9605
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://diretogo.com:80/a694360/6125381/2861
+http://rec2.distv.net:80/daniele/12345/127
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://diretogo.com:80/a694360/6125381/17065
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460229.m3u8
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://diretogo.com:80/a694360/6125381/97
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358919.m3u8
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359102.m3u8
 
 E!
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E!
-http://rec2.distv.net:80/pedro1/pedro1/141
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460323.m3u8
 
 #EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
 http://rec2.distv.net:80/dinho/dinho/127
 
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
-http://diretogo.com:80/a694360/6125381/9605
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460324.m3u8
 
 #EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
-http://diretogo.com:80/a694360/6125381/2861
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460326.m3u8
+
 
 #EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
-http://diretogo.com:80/a694360/6125381/17065
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460328.m3u8
 
 #EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
-http://diretogo.com:80/a694360/6125381/97
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460326.m3u8
 
 
 
 FUTURA
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
-http://diretogo.com:80/a694360/6125381/9616
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460192.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA ALT" tvg-name="FUTURA ALT" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA ALT
-http://rec2.distv.net:80/pedro1/pedro1/228
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460193.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
 http://rec2.distv.net:80/dinho/dinho/228
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
-http://diretogo.com:80/a694360/6125381/17369
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460194.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
-http://diretogo.com:80/a694360/6125381/9615
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460195.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
-http://diretogo.com:80/a694360/6125381/5600
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32920
 
 
 GNT
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
-http://rec2.distv.net:80/dinho/dinho/155
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460544.m3u8
 
 #EXTINF:-1 tvg-id="GNT ALT" tvg-name="GNT ALT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT ALT
-http://rec2.distv.net:80/pedro1/pedro1/155
+http://pfsv.io:80/23136533/3672/50870
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
-http://diretogo.com:80/a694360/6125381/9618
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460544.m3u8
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460545.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
-http://diretogo.com:80/a694360/6125381/10047301
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32761
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
-http://diretogo.com:80/a694360/6125381/82
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
-http://diretogo.com:80/a694360/6125381/81
-
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358859.m3u8
 
 
 MULTISHOW
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
-http://rec2.distv.net:80/pedro1/pedro1/170
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32657
 
 #EXTINF:-1 tvg-id="MULTISHOW ALT" tvg-name="MULTISHOW ALT" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW ALT
-http://rec2.distv.net:80/dinho/dinho/170
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460651.m3u8
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW FHD
+hhttp://noah.tvdns.tech:80/live/claudiofera/Fera2021/358840.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
-http://diretogo.com:80/a694360/6125381/9628
+http://pfsv.io:80/23136533/3672/16
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
-http://diretogo.com:80/a694360/6125381/93
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460654.m3u8
+
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
-http://diretogo.com:80/a694360/6125381/17116
-
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
-http://diretogo.com:80/a694360/6125381/92
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358953.m3u8
 
 
 
 MTV
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
-http://rec2.distv.net:80/pedro1/pedro1/169
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460643.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460644.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
-http://rec2.distv.net:80/dinho/dinho/169
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33801
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
-http://rec2.distv.net:80/dinho/dinho/236
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32660
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
-http://diretogo.com:80/a694360/6125381/5913
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460646.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
-http://diretogo.com:80/a694360/6125381/4957
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
-http://diretogo.com:80/a694360/6125381/86
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32662
 
 
 
 VH1
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
-http://rec2.distv.net:80/dinho/dinho/206
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460959.m3u8
 
-#EXTINF:-1 tvg-id="VH1 ALT" tvg-name="VH1 ALT" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1 ALT
-http://rec2.distv.net:80/pedro1/pedro1/206
+#EXTINF:-1 tvg-id="VH1 ALT" tvg-name="VH1 ALT" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1 FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358854.m3u8
 
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
-http://diretogo.com:80/a694360/6125381/9645
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
-http://diretogo.com:80/a694360/6125381/2733
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32304
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
-http://diretogo.com:80/a694360/6125381/9644
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460961.m3u8
+
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
-http://diretogo.com:80/a694360/6125381/88
+http://dns.velox4k.tech:2082/6893910914/6615263741/4065
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
+http://dns.velox4k.tech:2082/6893910914/6615263741/4067
 
 
 
 VIVA
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
-http://rec2.distv.net:80/pedro1/pedro1/207
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460965.m3u8
 
 #EXTINF:-1 tvg-id="VIVA ALT" tvg-name="VIVA ALT" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA ALT
-http://rec2.distv.net:80/dinho/dinho/207
+http://pfsv.io:80/23136533/3672/105
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460967.m3u8
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
-http://diretogo.com:80/a694360/6125381/16739
+http://pfsv.io:80/23136533/3672/114
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
-http://diretogo.com:80/a694360/6125381/17320
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460968.m3u8
+
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
-http://diretogo.com:80/a694360/6125381/79
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359015.m3u8
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
-http://diretogo.com:80/a694360/6125381/78
 
 
 
@@ -1961,22 +1974,22 @@ ESPORTES
 BAND SPORTS
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://rec2.distv.net:80/daniele/12345/119
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460163.m3u8
 
-#EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS ALT
-http://rec2.distv.net:80/pedro1/pedro1/119
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://rec2.distv.net:80/dinho/dinho/119
+#EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460164.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://diretogo.com:80/a694360/6125381/9604
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358793.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460165.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://diretogo.com:80/a694360/6125381/155
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460166.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://diretogo.com:80/a694360/6125381/156
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358938.m3u8
+
 
 CAMPEONATO CATARINENSE
 
@@ -1993,7 +2006,7 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/84158
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/84159
 
 #EXTINF:-1 tvg-id="CATARINENSE" tvg-name="CATARINENSE" tvg-logo="https://i.ibb.co/g30MsZY/catarinense.png" group-title="ESPORTES",CATARINENSE
-http://5ce.me:80/Mariaalmeida/almeida123/64256
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/39565
 
 
 
@@ -2022,88 +2035,85 @@ COMBATE
 http://rec2.distv.net:80/pedro1/pedro1/126
 
 #EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE ALT
-http://rec2.distv.net:80/daniele/12345/126
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460220.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
-http://rec2.distv.net:80/dinho/dinho/126
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359371.m3u8
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460221.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
-http://diretogo.com:80/a694360/6125381/5369
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460223.m3u8
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460224.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
-http://diretogo.com:80/a694360/6125381/201
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
-http://diretogo.com:80/a694360/6125381/202
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
-http://diretogo.com:80/a694360/6125381/10047337
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358921.m3u8
 
 
 ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN
-http://rec2.distv.net:80/daniele/12345/142
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460358.m3u8
+
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460360.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
-http://brxp2p.xyz:8080/live/edjane/123456/225359.m3u8
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359109.m3u8
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
-http://rec2.distv.net:80/pedro1/pedro1/142
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359374.m3u8
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
-http://rec2.distv.net:80/pedro1/pedro1/142
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32969
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
-http://rec2.distv.net:80/pedro1/pedro1/142
-
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
-http://rec2.distv.net:80/pedro1/pedro1/142
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32993
 
 
 
 ESPN BRASIL
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://rec2.distv.net:80/daniele/12345/144
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460348.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
-http://rec2.distv.net:80/dinho/dinho/144
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460349.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
-http://rec2.distv.net:80/pedro1/pedro1/144
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460350.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359150.m3u8
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32982
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://diretogo.com:80/a694360/6125381/6287
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://diretogo.com:80/a694360/6125381/151
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://diretogo.com:80/a694360/6125381/150
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32984
 
 
 
 ESPN 2
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://rec2.distv.net:80/pedro1/pedro1/143
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2 FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460363.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://rec2.distv.net:80/daniele/12345/143
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460365.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://rec2.distv.net:80/dinho/dinho/143
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359048.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://diretogo.com:80/a694360/6125381/9610
+http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/14102
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://diretogo.com:80/a694360/6125381/148
+http://dns.velox4k.tech:2082/6893910914/6615263741/6923
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://diretogo.com:80/a694360/6125381/153
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32988
 
 
 EI PLUS
