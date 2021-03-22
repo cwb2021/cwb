@@ -803,13 +803,13 @@ http://rec2.distv.net:80/pedro1/pedro1/202
 http://diretogo.com:80/a694360/6125381/9639
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
-http://diretogo.com:80/a694360/6125381/260
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460905.m3u8
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
-http://diretogo.com:80/a694360/6125381/17098
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460903.m3u8
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
-http://diretogo.com:80/a694360/6125381/259
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES SD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358979.m3u8
 
 
 
@@ -824,14 +824,14 @@ http://rec2.distv.net:80/pedro1/pedro1/191
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
 http://rec2.distv.net:80/dinho/dinho/205
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://diretogo.com:80/a694360/6125381/9642
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359378.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://diretogo.com:80/a694360/6125381/17097
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359147.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://diretogo.com:80/a694360/6125381/209
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL SD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359037.m3u8
 
 WARNER CHANNEL
 
@@ -841,17 +841,18 @@ http://rec2.distv.net:80/dinho/dinho/208
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
 http://rec2.distv.net:80/pedro1/pedro1/208
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/5848
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460972.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL HD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460974.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL SD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359032.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/10047202
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460976.m3u8
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/241
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
-http://diretogo.com:80/a694360/6125381/242
 
 
 
@@ -868,8 +869,9 @@ http://pfsv.io:80/23136533/3672/133
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
 http://rec2.distv.net:80/dinho/dinho/243
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
-http://diretogo.com:80/a694360/6125381/9646
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO FHD
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460977.m3u8
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
-http://diretogo.com:80/a694360/6125381/136
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359020.m3u8
+
