@@ -132,6 +132,14 @@ http://b5.vc:80/live/7885037935/fireurl.co/77964.ts
 http://b5.vc:80/live/7885037935/fireurl.co/72621.ts
 
 
+MANCHETE
+
+#EXTINF:-1 tvg-id="MANCHETE" tvg-name="MANCHETE" tvg-logo="https://i.ibb.co/LxfyQKH/LOGO-manchete.png" group-title="ABERTOS",MANCHETE
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist.m3u8
+
+
+
+
 
 RECORD
 
@@ -231,12 +239,6 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460155.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
 http://srvtv.online:2082/Altair567/356738473/6985
-
-
-
-
-
-
 
 
 
