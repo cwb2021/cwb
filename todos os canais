@@ -194,7 +194,7 @@ GLOBO
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD
-http://dns.fastuhd.online:80/04286291/69978869/173172
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD ALT
 http://dns.fastuhd.online:80/04286291/69978869/173173
