@@ -2006,7 +2006,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358921.m3u8
 ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460358.m3u8
+https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3uunui0917.m3u8?s=XKWu_WNjrzBjXqxWR-xDyg&e=1617520541
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460360.m3u8
@@ -2052,7 +2052,7 @@ ESPN 2
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460363.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460365.m3u8
+https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3uunui0917.m3u8?s=ZKeDcWYPqZYo323YlCkVqA&e=1617520569
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359048.m3u8
