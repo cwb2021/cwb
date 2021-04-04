@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",teste
-https://p.netcine.biz/players/desktop37-pc.php?n=ESCURIDAOMORTALDUB&p=filmes2021
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/bbb21_c1dfd96e_fb6a42ff9e3875d29ce98ac146bed2c543e3e449/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xODEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzQ5Njk5MTt9
 
 
 BIG BROTHER 2021
@@ -94,7 +94,7 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
-http://dns.fastuhd.online:80/04286291/69978869/173155
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1571561416.m3u8
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
 http://dns.fastuhd.online:80/04286291/69978869/173249
@@ -119,7 +119,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460151.m3u8
 SBT
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://dns.fastuhd.online:80/04286291/69978869/173320
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1515876644.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 http://dns.fastuhd.online:80/04286291/69978869/173315
@@ -149,10 +149,10 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist.m3u8
 RECORD
 
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD
-http://dns.fastuhd.online:80/04286291/69978869/173289
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://dns.fastuhd.online:80/04286291/69978869/173307
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
@@ -433,10 +433,10 @@ http://rec2.distv.net:80/pedro1/pedro1/154
 LOADING
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://dns.fastuhd.online:80/04286291/69978869/173190
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358862.m3u8
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
 
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
