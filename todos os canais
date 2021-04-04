@@ -1983,7 +1983,7 @@ http://dns.velox4k.tech:2082/6893910914/6615263741/23243
 COMBATE
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
-http://rec2.distv.net:80/pedro1/pedro1/126
+https://cdn.esporteone.com/COMBATESD/video.m3u8?md5=oIsQqZNnwW56i_LxQ6lQ4A&expires=1617505525
 
 #EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE ALT
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460220.m3u8
