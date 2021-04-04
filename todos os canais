@@ -817,7 +817,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358929.m3u8
 AMC
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/2STTYJy/LOGO-AMC.png" group-title="FILMES",AMC
-http://dns.fastuhd.online:80/04286291/69978869/173112
+https://video.twimg.com/amplify_video/1368766425209348096/pl/1280x720/zr2Feenrfpajl9FK.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/2STTYJy/LOGO-AMC.png" group-title="FILMES",AMC
 http://dns.fastuhd.online:80/04286291/69978869/173113
@@ -2093,7 +2093,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460369.m3u8
 FOX SPORTS
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460405.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_65675ebc58d201be1c06147b779bf18e83bab02b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xODEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzQ5NjY4Mjt9
 
 #EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359383.m3u8
@@ -2253,7 +2253,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460831.m3u8
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359376.m3u8
 
 ####EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/k6jyqrQ/LOGO-SPORTV.png" group-title="ESPORTES",SPORT TV
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460832.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_d5f1e3b7c4d6733a1aebd002adcfda455324a560/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xODEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzQ5Njg1NDt9
 
 ###EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/k6jyqrQ/LOGO-SPORTV.png" group-title="ESPORTES",SPORT TV
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359016.m3u8
