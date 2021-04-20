@@ -8,7 +8,7 @@ BIG BROTHER 2021
 
 #EXTINF:-1 tvg-id="CAMERA 1" tvg-name="BBB 1" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 1
 
-http://srvtv.online:2082/Altair567/356738473/21867
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21_c1dfd96e_b2039012fc020a7669996563dbe81ec382b16d3b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xNjUiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMjggU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODkzNTM5MTt9
 
 
 
@@ -191,10 +191,10 @@ GLOBO
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359486.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_97b5873475e8307fd5e0d6b0eba72c5617ff4dd0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xNjUiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMjggU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODkzNTE4Nzt9
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359532.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_45fd4eea9098eb7db4bdedcfd4b818e3470ac33d/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xNjUiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMjggU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODkzNTM0MTt9
 
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
