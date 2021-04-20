@@ -139,7 +139,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359068.m3u8
 RECORD
 
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460755.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/record_3554dce5_a5a2bb6e9451aac76c399d61a0d573e0b11f2960/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
@@ -197,7 +197,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_45fd4eea
 
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359517.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globonordeste_acf10f2c_99c3a288ab36f1898dfbcf0766971cf3f97af4f9/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO CURITIBA HD
