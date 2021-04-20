@@ -20,8 +20,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bbb21_c1dfd96e_b2039012fc
 
 #EXTINF:-1 tvg-id="BBB 3" tvg-name="BBB 3" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 3
 
-http://srvtv.online:2082/Altair567/356738473/21866
-
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21mosaico_6765c043_29d90a732e6c212085c9e87a7b13651f6039fad8/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-id="BBB 4" tvg-name="BBB 4" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 4
