@@ -13,7 +13,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21_c1dfd96e_b2039012fc020
 
 #EXTINF:-1 tvg-id="BBB 2" tvg-name="BBB 2" tvg-logo="https://i.ibb.co/9b82dHK/bbb.png" group-title="ABERTOS",BBB 2
 
-http://srvtv.online:2082/Altair567/356738473/21866
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bbb21_c1dfd96e_b2039012fc020a7669996563dbe81ec382b16d3b/playlist.m3u8?
 
 
 
