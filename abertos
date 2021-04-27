@@ -189,7 +189,7 @@ GLOBO
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD
-plugin://plugin.video.VideoPlayer InputStream/?streamtype=tsdownloader;name=;url=http://manutanplus.space:8080/RubenRodriguesClt2/AK5DYkGITD/30176
+http://manutanplus.space:8080/RubenRodriguesClt2/AK5DYkGITD/30176
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO SP HD ALT
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_45fd4eea9098eb7db4bdedcfd4b818e3470ac33d/playlist.m3u8?
