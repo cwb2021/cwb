@@ -114,10 +114,10 @@ http://pvsrvs.xyz:80/8N7aJE/wil456/244
 DISNEY CHANNEL
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460303.m3u8
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460267.m3u8
@@ -136,10 +136,10 @@ http://pvsrvs.xyz:80/8N7aJE/wil456/246
 DISNEY JR
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358832.m3u8
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
-http://rec2.distv.net:80/daniele/12345/139
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
 http://rec2.distv.net:80/dinho/dinho/139
@@ -157,10 +157,10 @@ http://srvtv.online:2082/Altair567/356738473/6988
 DISNEY XD
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460315.m3u8
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460315.m3u8
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/ZMPcFTB/DISNEY-XD.png" group-title="INFANTIL",DISNEY XD
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460318.m3u8
@@ -262,7 +262,7 @@ http://srvtv.online:2082/Altair567/356738473/21870
 NICK JR
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460681.m3u8
+https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="ABERTOS",NICK JR
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359122.m3u8
@@ -283,7 +283,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359059.m3u8
 NICKELODEON
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460685.m3u8
+https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="ABERTOS",NICKELODEON ALT
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460687.m3u8
