@@ -43,7 +43,7 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w15158766
 http://dns.fastuhd.online:80/04286291/69978869/173315
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://dns.fastuhd.online:80/04286291/69978869/173319http://b5.vc:80/live/7885037935/fireurl.co/72306.ts
+http://dns.fastuhd.online:80/04286291/69978869/173319 
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
 http://dns.fastuhd.online:80/04286291/69978869/173322
@@ -60,8 +60,8 @@ MANCHETE
 #EXTINF:-1 tvg-id="MANCHETE" tvg-name="MANCHETE" tvg-logo="https://i.ibb.co/LxfyQKH/LOGO-manchete.png" group-title="ABERTOS",MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="MANCHETE" tvg-name="MANCHETE" tvg-logo="https://i.ibb.co/LxfyQKH/LOGO-manchete.png" group-title="ABERTOS",MANCHETE ALT
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w922998660.m3u8
 
 
 RECORD
@@ -80,10 +80,10 @@ http://dns.fastuhd.online:80/04286291/69978869/173313
 http://dns.fastuhd.online:80/04286291/69978869/173304
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://b5.vc:80/live/7885037935/fireurl.co/96522.ts
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/102257.m3u8
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://pfsv.io:80/23136533/3672/57
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/102256.m3u8
 
 
 
