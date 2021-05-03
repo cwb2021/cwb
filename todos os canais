@@ -94,16 +94,16 @@ CULTURA
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://dns.fastuhd.online:80/04286291/69978869/173471
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71851.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
-http://dns.fastuhd.online:80/04286291/69978869/173273
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71853.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
-http://dns.fastuhd.online:80/04286291/69978869/173270
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71854.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
+http://canaishd.servidor.tv:8080/Davi01/Davi01/29772
 
 
 
@@ -112,14 +112,14 @@ GLOBO
 
 
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/72041.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD ALT
-http://dns.fastuhd.online:80/04286291/69978869/173173
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/100023.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD
-http://dns.fastuhd.online:80/04286291/69978869/173174
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/100375.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS", HD
@@ -127,10 +127,10 @@ http://dns.fastuhd.online:80/04286291/69978869/173175
 
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-http://dns.fastuhd.online:80/04286291/69978869/173176
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/102554.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-http://dns.fastuhd.online:80/04286291/69978869/173180
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/72026.m3u8
 
 
 
@@ -141,23 +141,23 @@ INFANTIL
 BABY TV
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://dns.fastuhd.online:80/04286291/69978869/173594
+http://canaishd.servidor.tv:8080/Davi01/Davi01/367
 
 
 #EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV ALT
-http://dns.fastuhd.online:80/04286291/69978869/173629
+http://goodtv.xyz:2052/Mike/Mike123/2274641
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://dns.fastuhd.online:80/04286291/69978869/173630
+http://srvtv.online:2082/981AGHJ76/3846590345/6984
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460151.m3u8
+http://srvtv.online:2082/981AGHJ76/3846590345/6985
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359478.m3u8
+http://canaishd.servidor.tv:8080/Davi01/Davi01/367
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460155.m3u8
+http://goodtv.xyz:2052/Mike/Mike123/2274641
 
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
@@ -168,47 +168,47 @@ http://srvtv.online:2082/Altair567/356738473/6985
 BOOMERANG
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://dns.fastuhd.online:80/04286291/69978869/173596
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/90644.m3u8
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://dns.fastuhd.online:80/04286291/69978869/173597
-
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://dns.fastuhd.online:80/04286291/69978869/173598
+http://canaishd.servidor.tv:8080/Davi01/Davi01/1492
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://b5.vc:80/live/7885037935/fireurl.co/71815.ts
+http://canaishd.servidor.tv:8080/Davi01/Davi01/355
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358954.m3u8
+http://goodtv.xyz:2052/Mike/Mike123/2274648
+
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460184.m3u8
+http://srvtv.online:2082/981AGHJ76/3846590345/4209
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+http://srvtv.online:2082/981AGHJ76/3846590345/4218
 
 
 CARTOON NETWORk
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://dns.fastuhd.online:80/04286291/69978869/173631
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71828.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://dns.fastuhd.online:80/04286291/69978869/173601
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71829.m3u8
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://dns.fastuhd.online:80/04286291/69978869/173600
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71831.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://dns.fastuhd.online:80/04286291/69978869/173599
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71832.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://b5.vc:80/live/7885037935/fireurl.co/71832.ts
+http://canaishd.servidor.tv:8080/Davi01/Davi01/1491
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/wghgGSW/CARTOON-NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
-http://srvtv.online:2082/Altair567/356738473/7000
+http://canaishd.servidor.tv:8080/Davi01/Davi01/349
 
 
 
@@ -216,53 +216,51 @@ http://srvtv.online:2082/Altair567/356738473/7000
 DISCOVERY KIDS
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-
-http://dns.fastuhd.online:80/04286291/69978869/173604
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-
-http://dns.fastuhd.online:80/04286291/69978869/173603
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71871.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://dns.fastuhd.online:80/04286291/69978869/173602
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71872.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://b5.vc:80/live/7885037935/fireurl.co/71873.ts
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/90250.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://b5.vc:80/live/7885037935/fireurl.co/71874.ts
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71874.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
-http://pvsrvs.xyz:80/8N7aJE/wil456/244
+http://canaishd.servidor.tv:8080/Davi01/Davi01/1483
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/Bs8WyZb/DISCOVERY-KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
+http://canaishd.servidor.tv:8080/Davi01/Davi01/332
 
 
 
 DISNEY CHANNEL
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://dns.fastuhd.online:80/04286291/69978869/173628
+http://canaishd.servidor.tv:8080/Davi01/Davi01/1480
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://dns.fastuhd.online:80/04286291/69978869/173608
+http://canaishd.servidor.tv:8080/Davi01/Davi01/325
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://dns.fastuhd.online:80/04286291/69978869/173607
+http://canaishd.servidor.tv:8080/Davi01/Davi01/1480
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://b5.vc:80/live/7885037935/fireurl.co/71894.ts
+http://canaishd.servidor.tv:8080/Davi01/Davi01/325
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358940.m3u8
+http://goodtv.xyz:2052/Mike/Mike123/2274706
 
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
-http://pvsrvs.xyz:80/8N7aJE/wil456/246
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
 
 DISNEY JR
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
-http://dns.fastuhd.online:80/04286291/69978869/173606
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/QHwWT4C/DISNEY-JR.png" group-title="INFANTIL",DISNEY JR
 http://dns.fastuhd.online:80/04286291/69978869/173609
