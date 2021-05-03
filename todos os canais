@@ -15,19 +15,19 @@ BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1571561416.m3u8
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
-http://dns.fastuhd.online:80/04286291/69978869/173249
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/71787.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
-http://dns.fastuhd.online:80/04286291/69978869/173250
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/72597.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
-hhttp://dns.fastuhd.online:80/04286291/69978869/173251
+http://canaishd.servidor.tv:8080/Davi01/Davi01/484
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
-http://dns.fastuhd.online:80/04286291/69978869/173253
+http://srvtv.online:2082/981AGHJ76/3846590345/3816
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460151.m3u8
+http://srvtv.online:2082/981AGHJ76/3846590345/6830
 
 
 
@@ -49,10 +49,10 @@ http://dns.fastuhd.online:80/04286291/69978869/173319http://b5.vc:80/live/788503
 http://dns.fastuhd.online:80/04286291/69978869/173322
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://dns.fastuhd.online:80/04286291/69978869/173325
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/100419.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://b5.vc:80/live/7885037935/fireurl.co/72621.ts
+http://b5.vc:80/live/5sVAyGZp/phantomiptv/100418.m3u8
 
 
 MANCHETE
