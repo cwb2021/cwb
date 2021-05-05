@@ -6,13 +6,13 @@ DOCUMENTÁRIOS
 ANIMAL PLANET
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460129.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460131.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT 2
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359110.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358916.m3u8
@@ -30,14 +30,14 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/461349.m3u8
 DISCOVERY CHANNEL
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460264.m3u8
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359382.m3u8
