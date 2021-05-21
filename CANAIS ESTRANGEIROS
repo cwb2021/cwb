@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="japão" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png",NHK
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/z2g8Wz2.png",A&E
 http://eitv.cc:80/Rosalve/fat741470s/10039683
 #EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/9t3OHVr.png",ABC 5
