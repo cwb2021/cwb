@@ -205,7 +205,7 @@ http://rec2.distv.net:80/pedro1/pedro1/149
 FX
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/Bw1sR8f/fx.png" group-title="FILMES",FX
-http://rec2.distv.net:80/pedro1/pedro1/229
+https://content-asae1-up-1.uplynk.com/channel/c4d5b5ce76034d9c96c0596c87a76e3a/d.m3u8?
 
 #EXTINF:-1 tvg-id="FX ALT" tvg-name="FX ALT" tvg-logo="https://i.ibb.co/Bw1sR8f/fx.png" group-title="FILMES",FX ALT
 http://rec2.distv.net:80/dinho/dinho/229
@@ -228,7 +228,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359136.m3u8
 HBO
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460559.m3u8
+http://163.172.103.202:8880/287994003314/287994003314/31464
 
 #EXTINF:-1 tvg-id="HBO ALT" tvg-name="HBO ALT" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO ALT
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359052.m3u8
@@ -250,7 +250,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358805.m3u8
 HBO 2
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 FHD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359412.m3u8
+http://geri.golemflixer.com:8080/play/LQuRd3YLnksqNA4xEf4InEsMlVVPOk_YBbOvz30OcSHieqkZcyhdR4gc2ZRZHe3P/ts
 
 #EXTINF:-1 tvg-id="HBO 2 ALT" tvg-name="HBO 2 ALT" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 ALT
 http://brxp2p.xyz:8080/live/edjane/123456/225542.m3u8
@@ -272,7 +272,7 @@ http://diretogo.com:80/a694360/6125381/4099
 HBO FAMILY
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/CVP2XQ9/HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460551.m3u8
+http://163.172.103.202:8880/287994003314/287994003314/31462
 
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/CVP2XQ9/HBO-FAMILY.png" group-title="FILMES",HBO FAMILY
@@ -363,7 +363,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359357.m3u8
 HBO SIGNATURE
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460573.m3u8
+http://showflix.org:5890/mickaeloristi2021/123456/98945
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE ALT" tvg-name="HBO SIGNATURE ALT" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE ALT
 http://rec2.distv.net:80/pedro1/pedro1/161
@@ -455,11 +455,11 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358838.m3u8
 MEGA PIX
 
 #EXTINF:-1 tvg-id="MEGA PIX" tvg-name="MEGA PIX" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460637.m3u8
+http://dns.clientetv.xyz:8080/viniciussevero/12997915226/1321
 
 
 #EXTINF:-1 tvg-id="MEGA PIX ALT" tvg-name="MEGA PIX ALT" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX ALT
-http://rec2.distv.net:80/pedro1/pedro1/168
+http://tv2sat.co:8000/50159198914720/95787336690326/120776
 
 #EXTINF:-1 tvg-id="MEGA PIX" tvg-name="MEGA PIX" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460640.m3u8
@@ -638,7 +638,7 @@ http://pfsv.io:80/23136533/3672/50884
 TELECINE ACTION
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/Zx4DkDs/TC-ACTION.png" group-title="FILMES",TELECINE ACTION
-http://rec2.distv.net:80/dinho/dinho/194
+http://fstplay.me:80/34289415/35612068/154501
 
 #EXTINF:-1 tvg-id="TELECINE ACTION ALT" tvg-name="TELECINE ACTION ALT" tvg-logo="https://i.ibb.co/Zx4DkDs/TC-ACTION.png" group-title="FILMES",TELECINE ACTION ALT
 http://rec2.distv.net:80/pedro1/pedro1/194
@@ -661,7 +661,8 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358933.m3u8
 TELECINE CULT
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/JkHvhV9/TELECINE-CULT.png" group-title="FILMES",TELECINE CULT
-http://rec2.distv.net:80/pedro1/pedro1/195
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8?md5=QXogNNw9QjTeiP5q2X5zZQ&expires=1624253738
+
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.ibb.co/JkHvhV9/TELECINE-CULT.png" group-title="FILMES",TELECINE CULT
 http://rec2.distv.net:80/dinho/dinho/195
@@ -682,7 +683,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358947.m3u8
 TELECINE FUN
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/PQh2c25/TELECINE-fun.png" group-title="FILMES",TELECINE FUN
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460871.m3u8
+http://fstplay.me:80/34289415/35612068/14084
 
 
 #EXTINF:-1 tvg-id="TELECINE FUN ALT" tvg-name="TELECINE FUN ALT" tvg-logo="https://i.ibb.co/PQh2c25/TELECINE-fun.png" group-title="FILMES",TELECINE FUN ALT
@@ -706,7 +707,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460873.m3u8
 TELECINE PIPOCA
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/5x1bzzQ/TELECINE-pipoca.png" group-title="FILMES",TELECINE PIPOCA
-http://rec2.distv.net:80/dinho/dinho/197
+md5=UDgqFdUZ-63SR-ZYtuCXXw&expires=1624253511
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA ALT" tvg-name="TELECINE PIPOCA ALT" tvg-logo="https://i.ibb.co/5x1bzzQ/TELECINE-pipoca.png" group-title="FILMES",TELECINE PIPOCA ALT
 http://rec2.distv.net:80/pedro1/pedro1/197
@@ -727,7 +728,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460879.m3u8
 TELECINE PREMIUM
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/MVkw1vz/TELECINE-premium.png" group-title="FILMES",TELECINE PREMIUM
-http://rec2.distv.net:80/dinho/dinho/198
+http://fstplay.me:80/34289415/35612068/14086
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM ALT" tvg-name="TELECINE PREMIUM ALT" tvg-logo="https://i.ibb.co/MVkw1vz/TELECINE-premium.png" group-title="FILMES",TELECINE PREMIUM ALT
 http://rec2.distv.net:80/pedro1/pedro1/198
@@ -751,7 +752,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358989.m3u8
 TELECINE TOUCH
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/hCqQgmD/TELECINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
-http://rec2.distv.net:80/dinho/dinho/199
+http://xcui.vitvabc.xyz:8880/287994003036/287994003036/31593
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH ALT" tvg-name="TELECINE TOUCH ALT" tvg-logo="https://i.ibb.co/hCqQgmD/TELECINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH ALT
 http://rec2.distv.net:80/pedro1/pedro1/199
