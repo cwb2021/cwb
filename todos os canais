@@ -11,23 +11,23 @@ CANAIS ABERTOS
 
 BAND
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND " tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1571561416.m3u8
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/71787.m3u8
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND " tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48948.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/72597.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48940.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
-http://canaishd.servidor.tv:8080/Davi01/Davi01/484
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/49594.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
-http://srvtv.online:2082/981AGHJ76/3846590345/3816
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48941.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
-http://srvtv.online:2082/981AGHJ76/3846590345/6830
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/49590.m3u8
 
 
 
@@ -37,22 +37,22 @@ http://srvtv.online:2082/981AGHJ76/3846590345/6830
 SBT
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1515876644.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48957.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://dns.fastuhd.online:80/04286291/69978869/173315
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48949.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://dns.fastuhd.online:80/04286291/69978869/173319 
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48925.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://dns.fastuhd.online:80/04286291/69978869/173322
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48924.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/100419.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/49573.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/100418.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48955.m3u8 
 
 
 MANCHETE
@@ -74,13 +74,13 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&reb
 
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://dns.fastuhd.online:80/04286291/69978869/173313
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48906.m3u8
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://dns.fastuhd.online:80/04286291/69978869/173304
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48915.m3u8
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/102257.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48911.m3u8
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
 http://b5.vc:80/live/5sVAyGZp/phantomiptv/102256.m3u8
@@ -91,46 +91,45 @@ http://b5.vc:80/live/5sVAyGZp/phantomiptv/102256.m3u8
 CULTURA
 
 #EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/49587.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/71851.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48962.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/71853.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48978.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/71854.m3u8
+http://xcui.vitvabc.xyz:8880/287994003067/287994003067/31083
 
 #EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
-http://canaishd.servidor.tv:8080/Davi01/Davi01/29772
-
+http://xcui.vitvabc.xyz:8880/287994003067/287994003067/31084
 
 
 GLOBO
 
 
 
-#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/72041.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48478.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD ALT
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/100023.m3u8
-
-
-#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO HD
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/100375.m3u8
+#EXTINF:-1 tvg-id="GLOBO SP HD ALT" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/49589.m3u8
 
 
-#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS", HD
-http://dns.fastuhd.online:80/04286291/69978869/173175
+#EXTINF:-1 tvg-id="GLOBO RJ HD " tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO 
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48484.m3u8
 
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/102554.m3u8
+#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS", GLOBO 
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48515.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/72026.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48522.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/48526.m3u8
 
 
 
@@ -141,52 +140,53 @@ INFANTIL
 BABY TV
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://canaishd.servidor.tv:8080/Davi01/Davi01/367
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/25369.m3u8
 
 
 #EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV ALT
-http://goodtv.xyz:2052/Mike/Mike123/2274641
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/3866.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://srvtv.online:2082/981AGHJ76/3846590345/6984
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/25370.m3u8
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://srvtv.online:2082/981AGHJ76/3846590345/6985
+http://xcui.vitvabc.xyz:8880/287994003067/287994003067/31477
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://canaishd.servidor.tv:8080/Davi01/Davi01/367
+http://app.smarters.ovh:80/humberto12/12humberto/760 
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://goodtv.xyz:2052/Mike/Mike123/2274641
+http://app.smarters.ovh:80/humberto12/12humberto/217
 
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://srvtv.online:2082/Altair567/356738473/6985
+http://fdq.digital:80/live/Jardel050621VX/Fraga2011VX/38437.m3u8
+
 
 
 
 BOOMERANG
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://b5.vc:80/live/5sVAyGZp/phantomiptv/90644.m3u8
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/3862.m3u8
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://canaishd.servidor.tv:8080/Davi01/Davi01/1492
-
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://canaishd.servidor.tv:8080/Davi01/Davi01/355
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/3863.m3u8
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://goodtv.xyz:2052/Mike/Mike123/2274648
+http://dnsl.me:80/live/Cristiano2021/2021cristiano/4534.m3u8
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://srvtv.online:2082/981AGHJ76/3846590345/4209
+http://xcui.vitvabc.xyz:8880/287994003067/287994003067/16699
+
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-http://srvtv.online:2082/981AGHJ76/3846590345/4218
+http://xcui.vitvabc.xyz:8880/287994003067/287994003067/31478
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ibb.co/ynwtt62/BOOMERANG.png" group-title="INFANTIL",BOOMERANG
+http://app.smarters.ovh:80/humberto12/12humberto/761
 
 
 CARTOON NETWORk
